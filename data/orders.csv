@@ -1,0 +1,1201 @@
+order_id;order_date;customer_id;city;sales_channel;product_name;category;quantity;unit_price;unit_cost;discount_pct;shipping_fee;gross_revenue;discount_amount;net_revenue;profit
+O00668;01.01.2025;C0327;Aktobe;Email;Notebook Set;Office;3;12.май;04.янв;5;июн.99;37.5;янв.88;42.62;30.32
+O01051;02.01.2025;C0063;Aktobe;Social Media;Notebook Set;Office;3;12.май;04.янв;0;июн.99;37.5;0.0;44.49;32.19
+O01085;02.01.2025;C0219;Atyrau;Organic;Resistance Bands;Sports;2;18.сен;06.фев;10;июн.99;37.8;мар.78;41.01;28.61
+O00268;03.01.2025;C0282;Astana;Email;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00545;03.01.2025;C0170;Karaganda;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O00758;03.01.2025;C0160;Almaty;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;10;0;24.сен;фев.49;22.41;ноя.91
+O00877;03.01.2025;C0280;Aktobe;Social Media;USB-C Cable;Electronics;4;09.сен;03.фев;15;фев.99;39.6;май.94;36.65;23.85
+O00313;04.01.2025;C0212;Astana;Paid Search;Wireless Mouse;Electronics;3;24.сен;10.май;0;0;74.7;0.0;74.7;43.2
+O00747;04.01.2025;C0059;Atyrau;Social Media;Notebook Set;Office;3;12.май;04.янв;0;апр.99;37.5;0.0;42.49;30.19
+O00835;04.01.2025;C0092;Almaty;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O01028;04.01.2025;C0126;Karaganda;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00038;05.01.2025;C0235;Aktobe;Referral;Notebook Set;Office;1;12.май;04.янв;15;0;12.май;янв.88;окт.62;июн.53
+O00510;05.01.2025;C0071;Atyrau;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;10;0;79.9;июл.99;71.91;33.91
+O01079;05.01.2025;C0114;Atyrau;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;20;июн.99;79.9;15.98;70.91;32.91
+O01127;05.01.2025;C0154;Shymkent;Social Media;Laptop Stand;Office;2;34.9;14.0;20;апр.99;69.8;13.96;60.83;32.83
+O01132;05.01.2025;C0256;Atyrau;Social Media;Desk Lamp;Home;1;29.сен;11.авг;15;апр.99;29.сен;апр.49;30.41;18.61
+O00518;06.01.2025;C0330;Astana;Referral;USB-C Cable;Electronics;3;09.сен;03.фев;5;0;29.июл;янв.49;28.22;18.62
+O00562;06.01.2025;C0284;Aktobe;Paid Search;Notebook Set;Office;2;12.май;04.янв;15;апр.99;25.0;мар.75;26.24;18.апр
+O00746;06.01.2025;C0328;Astana;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;5;фев.99;24.сен;янв.25;26.64;16.14
+O00974;06.01.2025;C0241;Astana;Social Media;Desk Lamp;Home;2;29.сен;11.авг;5;0;59.8;фев.99;56.81;33.21
+O00082;07.01.2025;C0216;Karaganda;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00315;07.01.2025;C0009;Aktobe;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;июн.99;53.8;0.0;60.79;41.39
+O00461;07.01.2025;C0320;Aktobe;Referral;Resistance Bands;Sports;1;18.сен;06.фев;0;июн.99;18.сен;0.0;25.89;19.69
+O00674;07.01.2025;C0107;Atyrau;Email;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00732;07.01.2025;C0235;Karaganda;Email;USB-C Cable;Electronics;5;09.сен;03.фев;0;апр.99;49.5;0.0;54.49;38.49
+O00803;07.01.2025;C0148;Karaganda;Email;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O01187;07.01.2025;C0060;Almaty;Email;Notebook Set;Office;1;12.май;04.янв;5;фев.99;12.май;0.62;14.87;окт.77
+O00274;08.01.2025;C0173;Shymkent;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;5;фев.99;19.авг;0.99;21.авг;15.апр
+O00852;08.01.2025;C0220;Atyrau;Paid Search;Laptop Stand;Office;2;34.9;14.0;15;апр.99;69.8;окт.47;64.32;36.32
+O00255;09.01.2025;C0189;Shymkent;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;июн.99;37.8;янв.89;42.9;30.май
+O00322;09.01.2025;C0107;Aktobe;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;0;апр.99;37.8;0.0;42.79;30.39
+O00856;09.01.2025;C0246;Atyrau;Social Media;Desk Lamp;Home;1;29.сен;11.авг;5;0;29.сен;01.май;28.апр;16.июн
+O01075;09.01.2025;C0069;Atyrau;Organic;Desk Lamp;Home;1;29.сен;11.авг;20;апр.99;29.сен;май.98;28.91;17.ноя
+O00019;10.01.2025;C0058;Shymkent;Social Media;Resistance Bands;Sports;4;18.сен;06.фев;5;июн.99;75.6;мар.78;78.81;54.01
+O00193;10.01.2025;C0186;Shymkent;Paid Search;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00494;10.01.2025;C0347;Almaty;Paid Search;Wireless Mouse;Electronics;4;24.сен;10.май;10;фев.99;99.6;сен.96;92.63;50.63
+O00498;10.01.2025;C0117;Astana;Paid Search;USB-C Cable;Electronics;4;09.сен;03.фев;15;июн.99;39.6;май.94;40.65;27.85
+O00573;10.01.2025;C0260;Atyrau;Organic;Notebook Set;Office;2;12.май;04.янв;5;0;25.0;янв.25;23.75;15.55
+O00433;11.01.2025;C0270;Karaganda;Organic;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O01110;11.01.2025;C0347;Astana;Email;Laptop Stand;Office;1;34.9;14.0;15;0;34.9;май.24;29.66;15.66
+O01167;11.01.2025;C0316;Almaty;Social Media;Resistance Bands;Sports;2;18.сен;06.фев;20;фев.99;37.8;июл.56;33.23;20.83
+O00133;12.01.2025;C0338;Karaganda;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;апр.99;15.сен;0.0;20.89;16.сен
+O00420;12.01.2025;C0034;Astana;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;0;0;159.8;0.0;159.8;83.8
+O00684;12.01.2025;C0142;Aktobe;Referral;Notebook Set;Office;5;12.май;04.янв;0;апр.99;62.5;0.0;67.49;46.99
+O00552;13.01.2025;C0265;Shymkent;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00824;13.01.2025;C0304;Astana;Email;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00427;14.01.2025;C0164;Aktobe;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00640;14.01.2025;C0204;Aktobe;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;15;0;79.9;ноя.98;67.92;29.92
+O00715;14.01.2025;C0314;Aktobe;Social Media;USB-C Cable;Electronics;3;09.сен;03.фев;0;фев.99;29.июл;0.0;32.69;23.сен
+O01137;14.01.2025;C0096;Astana;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O00642;15.01.2025;C0018;Atyrau;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00947;15.01.2025;C0126;Shymkent;Email;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00222;16.01.2025;C0074;Aktobe;Email;Desk Lamp;Home;2;29.сен;11.авг;10;фев.99;59.8;май.98;56.81;33.21
+O00921;16.01.2025;C0051;Atyrau;Organic;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O01031;16.01.2025;C0227;Astana;Organic;Yoga Mat;Sports;4;26.сен;09.июл;5;апр.99;107.6;май.38;107.21;68.41
+O00146;17.01.2025;C0190;Astana;Email;Yoga Mat;Sports;2;26.сен;09.июл;20;апр.99;53.8;окт.76;48.03;28.63
+O00293;17.01.2025;C0339;Karaganda;Referral;Laptop Stand;Office;4;34.9;14.0;10;0;139.6;13.96;125.64;69.64
+O00816;18.01.2025;C0038;Almaty;Referral;Mechanical Keyboard;Electronics;4;79.9;38.0;10;0;319.6;31.96;287.64;135.64
+O00215;19.01.2025;C0332;Astana;Social Media;Coffee Mug;Home;5;11.сен;03.сен;5;апр.99;59.5;фев.98;61.52;42.02
+O00574;19.01.2025;C0283;Shymkent;Referral;Water Bottle;Sports;2;15.сен;04.авг;10;фев.99;31.авг;мар.18;31.61;22.янв
+O00983;19.01.2025;C0241;Shymkent;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O01012;19.01.2025;C0250;Karaganda;Email;Coffee Mug;Home;5;11.сен;03.сен;15;апр.99;59.5;авг.93;55.57;36.07
+O01081;19.01.2025;C0144;Karaganda;Referral;Laptop Stand;Office;1;34.9;14.0;0;апр.99;34.9;0.0;39.89;25.89
+O00049;20.01.2025;C0241;Astana;Paid Search;Notebook Set;Office;1;12.май;04.янв;10;июн.99;12.май;янв.25;18.24;14.14
+O00252;20.01.2025;C0071;Atyrau;Social Media;Water Bottle;Sports;2;15.сен;04.авг;5;0;31.авг;янв.59;30.21;20.61
+O00271;20.01.2025;C0005;Shymkent;Referral;Coffee Mug;Home;3;11.сен;03.сен;0;апр.99;35.7;0.0;40.69;28.99
+O00493;20.01.2025;C0274;Astana;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00685;20.01.2025;C0236;Shymkent;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;5;0;37.8;янв.89;35.91;23.51
+O00688;20.01.2025;C0296;Karaganda;Organic;Water Bottle;Sports;3;15.сен;04.авг;0;апр.99;47.7;0.0;52.69;38.29
+O00551;21.01.2025;C0350;Shymkent;Email;Laptop Stand;Office;4;34.9;14.0;5;фев.99;139.6;июн.98;135.61;79.61
+O00580;21.01.2025;C0333;Shymkent;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00723;21.01.2025;C0286;Karaganda;Referral;Wireless Mouse;Electronics;3;24.сен;10.май;0;июн.99;74.7;0.0;81.69;50.19
+O00984;21.01.2025;C0227;Shymkent;Referral;Yoga Mat;Sports;1;26.сен;09.июл;20;июн.99;26.сен;май.38;28.51;18.81
+O00214;22.01.2025;C0162;Shymkent;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O01069;22.01.2025;C0001;Karaganda;Referral;Laptop Stand;Office;2;34.9;14.0;0;июн.99;69.8;0.0;76.79;48.79
+O01108;23.01.2025;C0016;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00308;24.01.2025;C0289;Astana;Paid Search;Desk Lamp;Home;4;29.сен;11.авг;0;июн.99;119.6;0.0;126.59;79.39
+O00832;24.01.2025;C0304;Astana;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;15;фев.99;18.сен;фев.83;19.май;дек.86
+O01040;25.01.2025;C0334;Almaty;Email;Desk Lamp;Home;1;29.сен;11.авг;5;0;29.сен;01.май;28.апр;16.июн
+O01087;25.01.2025;C0143;Karaganda;Referral;Yoga Mat;Sports;1;26.сен;09.июл;10;фев.99;26.сен;фев.69;27.фев;17.май
+O00064;26.01.2025;C0286;Astana;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00465;26.01.2025;C0244;Shymkent;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;15;фев.99;24.сен;мар.73;24.16;13.66
+O00764;26.01.2025;C0067;Almaty;Email;Notebook Set;Office;2;12.май;04.янв;0;июн.99;25.0;0.0;31.99;23.79
+O01011;27.01.2025;C0171;Almaty;Organic;Laptop Stand;Office;1;34.9;14.0;5;июн.99;34.9;янв.75;40.15;26.15
+O00487;28.01.2025;C0325;Aktobe;Referral;Water Bottle;Sports;1;15.сен;04.авг;15;июн.99;15.сен;фев.38;20.51;15.71
+O00537;28.01.2025;C0344;Almaty;Paid Search;Wireless Mouse;Electronics;2;24.сен;10.май;0;фев.99;49.8;0.0;52.79;31.79
+O00801;28.01.2025;C0329;Shymkent;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;апр.99;53.8;0.0;58.79;39.39
+O01091;28.01.2025;C0171;Aktobe;Paid Search;Laptop Stand;Office;1;34.9;14.0;0;апр.99;34.9;0.0;39.89;25.89
+O00319;29.01.2025;C0327;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00400;29.01.2025;C0256;Aktobe;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00750;29.01.2025;C0267;Shymkent;Referral;Resistance Bands;Sports;4;18.сен;06.фев;0;июн.99;75.6;0.0;82.59;57.79
+O00034;30.01.2025;C0261;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00395;30.01.2025;C0126;Almaty;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00809;30.01.2025;C0305;Atyrau;Paid Search;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00104;31.01.2025;C0085;Shymkent;Referral;USB-C Cable;Electronics;4;09.сен;03.фев;10;0;39.6;мар.96;35.64;22.84
+O00631;31.01.2025;C0111;Shymkent;Email;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00663;31.01.2025;C0183;Atyrau;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;5;0;26.сен;янв.34;25.55;15.86
+O01168;31.01.2025;C0071;Shymkent;Email;Laptop Stand;Office;2;34.9;14.0;10;0;69.8;июн.98;62.82;34.82
+O00278;01.02.2025;C0342;Almaty;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00153;02.02.2025;C0244;Karaganda;Social Media;Notebook Set;Office;1;12.май;04.янв;10;0;12.май;янв.25;ноя.25;июл.15
+O00096;03.02.2025;C0206;Karaganda;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;15;0;24.сен;мар.73;21.16;окт.66
+O01066;03.02.2025;C0248;Almaty;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O01083;03.02.2025;C0302;Astana;Organic;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O01094;03.02.2025;C0053;Atyrau;Organic;Yoga Mat;Sports;1;26.сен;09.июл;5;июн.99;26.сен;янв.34;32.55;22.85
+O01162;03.02.2025;C0337;Shymkent;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00703;04.02.2025;C0199;Atyrau;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00117;05.02.2025;C0142;Karaganda;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00667;05.02.2025;C0272;Astana;Email;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00814;05.02.2025;C0252;Astana;Referral;Notebook Set;Office;4;12.май;04.янв;0;июн.99;50.0;0.0;56.99;40.59
+O00915;05.02.2025;C0244;Atyrau;Social Media;Coffee Mug;Home;1;11.сен;03.сен;15;фев.99;11.сен;янв.78;13.ноя;сен.21
+O01173;05.02.2025;C0099;Almaty;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00024;06.02.2025;C0324;Almaty;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;5;0;31.авг;янв.59;30.21;20.61
+O00174;06.02.2025;C0204;Atyrau;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;апр.99;37.8;янв.89;40.9;28.май
+O00991;06.02.2025;C0281;Aktobe;Email;Wireless Mouse;Electronics;3;24.сен;10.май;0;0;74.7;0.0;74.7;43.2
+O01180;06.02.2025;C0171;Astana;Email;Yoga Mat;Sports;1;26.сен;09.июл;5;июн.99;26.сен;янв.34;32.55;22.85
+O00303;07.02.2025;C0097;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00327;07.02.2025;C0043;Shymkent;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;5;фев.99;11.сен;0.59;14.29;окт.39
+O00556;07.02.2025;C0028;Astana;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O01107;07.02.2025;C0184;Almaty;Referral;USB-C Cable;Electronics;3;09.сен;03.фев;0;0;29.июл;0.0;29.июл;20.янв
+O00123;08.02.2025;C0241;Shymkent;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00221;08.02.2025;C0344;Atyrau;Email;Water Bottle;Sports;5;15.сен;04.авг;0;0;79.5;0.0;79.5;55.5
+O00411;08.02.2025;C0304;Aktobe;Organic;Water Bottle;Sports;1;15.сен;04.авг;0;июн.99;15.сен;0.0;22.89;18.сен
+O00617;08.02.2025;C0284;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;10;апр.99;79.9;июл.99;76.9;38.9
+O00184;09.02.2025;C0331;Almaty;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00584;09.02.2025;C0264;Atyrau;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;0;фев.99;56.7;0.0;59.69;41.09
+O00904;09.02.2025;C0010;Karaganda;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;10;0;79.9;июл.99;71.91;33.91
+O00006;10.02.2025;C0283;Shymkent;Referral;Yoga Mat;Sports;2;26.сен;09.июл;20;июн.99;53.8;окт.76;50.03;30.63
+O00457;10.02.2025;C0203;Atyrau;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;апр.99;53.8;0.0;58.79;39.39
+O00459;10.02.2025;C0350;Karaganda;Paid Search;Laptop Stand;Office;3;34.9;14.0;0;июн.99;104.7;0.0;111.69;69.69
+O00620;10.02.2025;C0347;Atyrau;Email;Water Bottle;Sports;1;15.сен;04.авг;10;0;15.сен;янв.59;14.31;сен.51
+O00636;10.02.2025;C0083;Shymkent;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;15;0;31.авг;апр.77;27.мар;17.43
+O00238;11.02.2025;C0024;Atyrau;Referral;Desk Lamp;Home;3;29.сен;11.авг;5;0;89.7;апр.48;85.21;49.81
+O00490;11.02.2025;C0250;Shymkent;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;15;фев.99;26.сен;04.апр;25.85;16.15
+O01088;11.02.2025;C0293;Almaty;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00913;12.02.2025;C0168;Karaganda;Organic;Yoga Mat;Sports;3;26.сен;09.июл;10;0;80.7;08.июл;72.63;43.53
+O00020;13.02.2025;C0249;Almaty;Referral;Laptop Stand;Office;1;34.9;14.0;15;0;34.9;май.24;29.66;15.66
+O00455;13.02.2025;C0343;Shymkent;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;10;0;24.сен;фев.49;22.41;ноя.91
+O00589;13.02.2025;C0111;Karaganda;Referral;Wireless Mouse;Electronics;3;24.сен;10.май;10;апр.99;74.7;июл.47;72.22;40.72
+O01195;13.02.2025;C0194;Almaty;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;0;апр.99;239.7;0.0;244.69;130.69
+O00460;14.02.2025;C0199;Aktobe;Email;USB-C Cable;Electronics;3;09.сен;03.фев;0;0;29.июл;0.0;29.июл;20.янв
+O00709;14.02.2025;C0196;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;15;фев.99;34.9;май.24;32.66;18.66
+O00810;14.02.2025;C0310;Astana;Email;Water Bottle;Sports;2;15.сен;04.авг;10;0;31.авг;мар.18;28.62;19.фев
+O00851;14.02.2025;C0211;Aktobe;Email;USB-C Cable;Electronics;2;09.сен;03.фев;5;фев.99;19.авг;0.99;21.авг;15.апр
+O00645;15.02.2025;C0227;Shymkent;Social Media;Notebook Set;Office;4;12.май;04.янв;0;фев.99;50.0;0.0;52.99;36.59
+O00887;15.02.2025;C0004;Karaganda;Social Media;Resistance Bands;Sports;5;18.сен;06.фев;0;июн.99;94.5;0.0;101.49;70.49
+O00968;15.02.2025;C0237;Astana;Social Media;Wireless Mouse;Electronics;4;24.сен;10.май;5;фев.99;99.6;апр.98;97.61;55.61
+O00992;15.02.2025;C0011;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O01054;15.02.2025;C0320;Atyrau;Referral;Yoga Mat;Sports;2;26.сен;09.июл;0;апр.99;53.8;0.0;58.79;39.39
+O01072;15.02.2025;C0203;Atyrau;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;5;апр.99;19.авг;0.99;23.авг;17.апр
+O00415;16.02.2025;C0081;Atyrau;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00522;16.02.2025;C0310;Aktobe;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00610;16.02.2025;C0282;Shymkent;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O01080;16.02.2025;C0315;Atyrau;Social Media;Notebook Set;Office;2;12.май;04.янв;10;фев.99;25.0;02.май;25.49;17.29
+O00030;17.02.2025;C0122;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;20;0;79.9;15.98;63.92;25.92
+O00043;17.02.2025;C0325;Karaganda;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;15;0;26.сен;04.апр;22.86;13.16
+O00511;17.02.2025;C0191;Shymkent;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O01000;18.02.2025;C0238;Atyrau;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;5;июн.99;49.8;фев.49;54.3;33.3
+O00804;19.02.2025;C0273;Atyrau;Social Media;Desk Lamp;Home;5;29.сен;11.авг;10;0;149.5;14.95;134.55;75.55
+O00931;19.02.2025;C0220;Shymkent;Social Media;Wireless Mouse;Electronics;3;24.сен;10.май;5;июн.99;74.7;мар.73;77.95;46.45
+O01095;19.02.2025;C0317;Karaganda;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;15;июн.99;18.сен;фев.83;23.май;16.86
+O01197;19.02.2025;C0109;Aktobe;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;20;0;24.сен;апр.98;19.92;сен.42
+O00122;21.02.2025;C0226;Almaty;Referral;Yoga Mat;Sports;5;26.сен;09.июл;0;апр.99;134.5;0.0;139.49;90.99
+O00628;21.02.2025;C0139;Astana;Referral;Notebook Set;Office;1;12.май;04.янв;5;фев.99;12.май;0.62;14.87;окт.77
+O00834;21.02.2025;C0324;Aktobe;Email;Yoga Mat;Sports;1;26.сен;09.июл;5;фев.99;26.сен;янв.34;28.55;18.85
+O01200;21.02.2025;C0002;Karaganda;Email;Coffee Mug;Home;2;11.сен;03.сен;20;апр.99;23.авг;апр.76;24.мар;16.23
+O00329;22.02.2025;C0068;Almaty;Paid Search;Wireless Mouse;Electronics;4;24.сен;10.май;0;апр.99;99.6;0.0;104.59;62.59
+O00330;22.02.2025;C0014;Almaty;Social Media;Coffee Mug;Home;1;11.сен;03.сен;5;июн.99;11.сен;0.59;18.мар;14.апр
+O00382;22.02.2025;C0161;Shymkent;Social Media;Laptop Stand;Office;1;34.9;14.0;10;0;34.9;мар.49;31.41;17.41
+O00495;22.02.2025;C0197;Aktobe;Referral;Laptop Stand;Office;2;34.9;14.0;0;фев.99;69.8;0.0;72.79;44.79
+O00513;23.02.2025;C0214;Aktobe;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;10;фев.99;79.9;июл.99;74.9;36.9
+O00462;24.02.2025;C0289;Almaty;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00678;24.02.2025;C0327;Aktobe;Social Media;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O00141;25.02.2025;C0346;Astana;Email;Notebook Set;Office;2;12.май;04.янв;10;апр.99;25.0;02.май;27.49;19.29
+O00014;26.02.2025;C0079;Atyrau;Paid Search;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O00207;26.02.2025;C0256;Aktobe;Referral;Coffee Mug;Home;2;11.сен;03.сен;5;0;23.авг;янв.19;22.61;14.81
+O00435;26.02.2025;C0270;Shymkent;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O00782;26.02.2025;C0145;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;5;апр.99;24.сен;янв.25;28.64;18.14
+O00845;26.02.2025;C0167;Astana;Organic;Laptop Stand;Office;2;34.9;14.0;15;фев.99;69.8;окт.47;62.32;34.32
+O00849;26.02.2025;C0239;Karaganda;Email;Wireless Mouse;Electronics;2;24.сен;10.май;0;фев.99;49.8;0.0;52.79;31.79
+O00861;26.02.2025;C0197;Shymkent;Email;Resistance Bands;Sports;4;18.сен;06.фев;5;0;75.6;мар.78;71.82;47.02
+O01082;26.02.2025;C0143;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;20;июн.99;34.9;июн.98;34.91;20.91
+O00660;27.02.2025;C0121;Atyrau;Email;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O01007;27.02.2025;C0009;Atyrau;Paid Search;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O00550;28.02.2025;C0343;Shymkent;Email;Water Bottle;Sports;2;15.сен;04.авг;20;0;31.авг;июн.36;25.44;15.84
+O00775;28.02.2025;C0304;Aktobe;Email;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O00933;28.02.2025;C0173;Astana;Organic;Mechanical Keyboard;Electronics;4;79.9;38.0;0;апр.99;319.6;0.0;324.59;172.59
+O01001;28.02.2025;C0339;Karaganda;Paid Search;Notebook Set;Office;1;12.май;04.янв;5;0;12.май;0.62;ноя.88;июл.78
+O01022;28.02.2025;C0317;Astana;Organic;Resistance Bands;Sports;1;18.сен;06.фев;0;июн.99;18.сен;0.0;25.89;19.69
+O00143;01.03.2025;C0072;Almaty;Organic;Yoga Mat;Sports;4;26.сен;09.июл;0;июн.99;107.6;0.0;114.59;75.79
+O00452;01.03.2025;C0158;Karaganda;Email;USB-C Cable;Electronics;2;09.сен;03.фев;20;июн.99;19.авг;мар.96;22.83;16.43
+O00357;02.03.2025;C0123;Shymkent;Organic;Water Bottle;Sports;2;15.сен;04.авг;5;апр.99;31.авг;янв.59;35.2;25.июн
+O00925;02.03.2025;C0197;Karaganda;Social Media;Wireless Mouse;Electronics;4;24.сен;10.май;0;июн.99;99.6;0.0;106.59;64.59
+O01048;02.03.2025;C0309;Karaganda;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;20;апр.99;49.8;сен.96;44.83;23.83
+O01049;02.03.2025;C0191;Shymkent;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O01125;02.03.2025;C0037;Shymkent;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;15;0;239.7;35.96;203.75;89.75
+O00414;03.03.2025;C0275;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00458;03.03.2025;C0230;Astana;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;5;фев.99;37.8;янв.89;38.9;26.май
+O00993;03.03.2025;C0153;Karaganda;Email;Coffee Mug;Home;3;11.сен;03.сен;0;фев.99;35.7;0.0;38.69;26.99
+O00243;04.03.2025;C0137;Karaganda;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;0;июн.99;37.8;0.0;44.79;32.39
+O00421;04.03.2025;C0022;Karaganda;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;15;апр.99;09.сен;янв.49;13.41;окт.21
+O00876;04.03.2025;C0013;Karaganda;Email;Desk Lamp;Home;1;29.сен;11.авг;20;апр.99;29.сен;май.98;28.91;17.ноя
+O00918;04.03.2025;C0120;Karaganda;Email;Desk Lamp;Home;1;29.сен;11.авг;15;июн.99;29.сен;апр.49;32.41;20.61
+O01086;04.03.2025;C0349;Aktobe;Email;Desk Lamp;Home;1;29.сен;11.авг;20;апр.99;29.сен;май.98;28.91;17.ноя
+O00234;05.03.2025;C0266;Astana;Social Media;USB-C Cable;Electronics;3;09.сен;03.фев;0;0;29.июл;0.0;29.июл;20.янв
+O00376;05.03.2025;C0081;Karaganda;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;15;0;159.8;23.97;135.83;59.83
+O00499;05.03.2025;C0188;Atyrau;Organic;Laptop Stand;Office;2;34.9;14.0;5;фев.99;69.8;мар.49;69.3;41.3
+O00906;05.03.2025;C0309;Astana;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00985;05.03.2025;C0179;Almaty;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00236;06.03.2025;C0321;Shymkent;Referral;Notebook Set;Office;1;12.май;04.янв;20;апр.99;12.май;02.май;14.99;окт.89
+O00192;07.03.2025;C0344;Atyrau;Referral;Notebook Set;Office;2;12.май;04.янв;5;апр.99;25.0;янв.25;28.74;20.54
+O00233;07.03.2025;C0283;Atyrau;Referral;Desk Lamp;Home;2;29.сен;11.авг;0;апр.99;59.8;0.0;64.79;41.19
+O00530;07.03.2025;C0054;Karaganda;Referral;Resistance Bands;Sports;3;18.сен;06.фев;15;фев.99;56.7;08.май;51.18;32.58
+O00161;08.03.2025;C0285;Almaty;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00191;08.03.2025;C0305;Atyrau;Organic;Desk Lamp;Home;1;29.сен;11.авг;5;июн.99;29.сен;01.май;35.39;23.59
+O00419;08.03.2025;C0102;Karaganda;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O01019;08.03.2025;C0089;Astana;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;июн.99;25.0;0.0;31.99;23.79
+O00039;09.03.2025;C0179;Almaty;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O01017;09.03.2025;C0151;Atyrau;Email;Desk Lamp;Home;4;29.сен;11.авг;15;июн.99;119.6;17.94;108.65;61.45
+O00248;10.03.2025;C0136;Atyrau;Social Media;Notebook Set;Office;2;12.май;04.янв;15;июн.99;25.0;мар.75;28.24;20.апр
+O00587;10.03.2025;C0323;Aktobe;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00785;10.03.2025;C0006;Almaty;Organic;Desk Lamp;Home;3;29.сен;11.авг;0;фев.99;89.7;0.0;92.69;57.29
+O00213;11.03.2025;C0033;Atyrau;Email;Yoga Mat;Sports;5;26.сен;09.июл;0;фев.99;134.5;0.0;137.49;88.99
+O00369;11.03.2025;C0211;Almaty;Social Media;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00413;11.03.2025;C0300;Almaty;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00651;11.03.2025;C0149;Almaty;Email;Notebook Set;Office;1;12.май;04.янв;15;фев.99;12.май;янв.88;13.62;сен.52
+O00694;11.03.2025;C0247;Aktobe;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;10;фев.99;23.авг;фев.38;24.41;16.61
+O00786;11.03.2025;C0044;Astana;Email;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O00068;12.03.2025;C0078;Astana;Email;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00266;12.03.2025;C0056;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;5;апр.99;34.9;янв.75;38.15;24.15
+O00711;12.03.2025;C0159;Atyrau;Referral;Resistance Bands;Sports;1;18.сен;06.фев;5;фев.99;18.сен;0.94;20.95;14.75
+O01030;12.03.2025;C0220;Karaganda;Email;USB-C Cable;Electronics;3;09.сен;03.фев;5;фев.99;29.июл;янв.49;31.21;21.61
+O01053;12.03.2025;C0259;Atyrau;Email;Yoga Mat;Sports;3;26.сен;09.июл;15;фев.99;80.7;12.янв;71.58;42.48
+O00001;13.03.2025;C0053;Atyrau;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00784;13.03.2025;C0097;Aktobe;Email;Coffee Mug;Home;2;11.сен;03.сен;5;июн.99;23.авг;янв.19;29.июн;21.авг
+O00951;13.03.2025;C0121;Almaty;Referral;Desk Lamp;Home;2;29.сен;11.авг;15;июн.99;59.8;авг.97;57.82;34.22
+O00791;14.03.2025;C0270;Shymkent;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;20;0;159.8;31.96;127.84;51.84
+O01050;14.03.2025;C0302;Karaganda;Organic;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O01068;14.03.2025;C0192;Aktobe;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O00012;15.03.2025;C0136;Astana;Paid Search;Laptop Stand;Office;2;34.9;14.0;0;июн.99;69.8;0.0;76.79;48.79
+O00464;15.03.2025;C0317;Aktobe;Email;Water Bottle;Sports;1;15.сен;04.авг;0;июн.99;15.сен;0.0;22.89;18.сен
+O00886;15.03.2025;C0107;Shymkent;Email;Coffee Mug;Home;1;11.сен;03.сен;5;0;11.сен;0.59;11.мар;07.апр
+O01190;15.03.2025;C0138;Atyrau;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00333;16.03.2025;C0033;Astana;Email;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00604;16.03.2025;C0242;Aktobe;Email;USB-C Cable;Electronics;1;09.сен;03.фев;5;0;09.сен;0.49;сен.41;июн.21
+O00894;16.03.2025;C0164;Karaganda;Paid Search;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00907;16.03.2025;C0143;Aktobe;Social Media;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00416;17.03.2025;C0047;Atyrau;Paid Search;Water Bottle;Sports;1;15.сен;04.авг;15;апр.99;15.сен;фев.38;18.51;13.71
+O00735;17.03.2025;C0029;Atyrau;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;0;фев.99;56.7;0.0;59.69;41.09
+O00778;17.03.2025;C0339;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00872;17.03.2025;C0181;Shymkent;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00920;17.03.2025;C0233;Almaty;Organic;Water Bottle;Sports;4;15.сен;04.авг;20;апр.99;63.6;дек.72;55.87;36.67
+O00205;18.03.2025;C0281;Atyrau;Referral;Wireless Mouse;Electronics;4;24.сен;10.май;0;фев.99;99.6;0.0;102.59;60.59
+O00402;18.03.2025;C0092;Almaty;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00507;18.03.2025;C0047;Aktobe;Organic;Mechanical Keyboard;Electronics;4;79.9;38.0;15;июн.99;319.6;47.94;278.65;126.65
+O00817;18.03.2025;C0335;Atyrau;Organic;Notebook Set;Office;3;12.май;04.янв;0;июн.99;37.5;0.0;44.49;32.19
+O00969;18.03.2025;C0046;Shymkent;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O00018;20.03.2025;C0192;Astana;Referral;Notebook Set;Office;3;12.май;04.янв;5;фев.99;37.5;янв.88;38.62;26.32
+O00160;20.03.2025;C0243;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;5;апр.99;29.сен;01.май;33.39;21.59
+O00450;20.03.2025;C0028;Shymkent;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;5;июн.99;79.9;4.0;82.89;44.89
+O00691;20.03.2025;C0026;Atyrau;Email;Resistance Bands;Sports;2;18.сен;06.фев;0;фев.99;37.8;0.0;40.79;28.39
+O01134;20.03.2025;C0170;Aktobe;Referral;Water Bottle;Sports;1;15.сен;04.авг;10;фев.99;15.сен;янв.59;17.мар;12.май
+O00163;21.03.2025;C0337;Karaganda;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O00169;22.03.2025;C0317;Almaty;Organic;Water Bottle;Sports;2;15.сен;04.авг;15;фев.99;31.авг;апр.77;30.02;20.42
+O00229;22.03.2025;C0327;Astana;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00843;22.03.2025;C0015;Karaganda;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O01026;22.03.2025;C0150;Atyrau;Email;USB-C Cable;Electronics;2;09.сен;03.фев;15;апр.99;19.авг;фев.97;21.82;15.42
+O00245;23.03.2025;C0256;Aktobe;Email;Desk Lamp;Home;4;29.сен;11.авг;10;фев.99;119.6;ноя.96;110.63;63.43
+O00044;24.03.2025;C0227;Aktobe;Email;Wireless Mouse;Electronics;1;24.сен;10.май;10;апр.99;24.сен;фев.49;27.апр;16.сен
+O00446;24.03.2025;C0039;Aktobe;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00079;25.03.2025;C0160;Almaty;Referral;Water Bottle;Sports;2;15.сен;04.авг;10;0;31.авг;мар.18;28.62;19.фев
+O00397;25.03.2025;C0255;Shymkent;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00730;25.03.2025;C0075;Astana;Organic;USB-C Cable;Electronics;4;09.сен;03.фев;5;фев.99;39.6;янв.98;40.61;27.81
+O01046;25.03.2025;C0074;Aktobe;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;20;июн.99;53.8;окт.76;50.03;30.63
+O00031;26.03.2025;C0195;Almaty;Email;Yoga Mat;Sports;2;26.сен;09.июл;15;0;53.8;08.июл;45.73;26.33
+O00367;26.03.2025;C0316;Astana;Paid Search;Desk Lamp;Home;3;29.сен;11.авг;5;июн.99;89.7;апр.48;92.2;56.8
+O00526;26.03.2025;C0253;Astana;Email;Resistance Bands;Sports;2;18.сен;06.фев;10;0;37.8;мар.78;34.02;21.62
+O01089;26.03.2025;C0169;Shymkent;Organic;Coffee Mug;Home;4;11.сен;03.сен;15;фев.99;47.6;июл.14;43.45;27.85
+O00635;27.03.2025;C0328;Shymkent;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00679;27.03.2025;C0093;Aktobe;Email;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O01159;27.03.2025;C0023;Karaganda;Referral;Mechanical Keyboard;Electronics;3;79.9;38.0;15;фев.99;239.7;35.96;206.74;92.74
+O00833;28.03.2025;C0190;Aktobe;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00917;28.03.2025;C0034;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00128;29.03.2025;C0090;Almaty;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;фев.99;09.сен;0.0;дек.89;сен.69
+O00176;29.03.2025;C0317;Karaganda;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00237;29.03.2025;C0338;Aktobe;Referral;Resistance Bands;Sports;1;18.сен;06.фев;5;фев.99;18.сен;0.94;20.95;14.75
+O00257;29.03.2025;C0269;Atyrau;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;июн.99;15.сен;0.0;22.89;18.сен
+O00484;29.03.2025;C0337;Aktobe;Paid Search;Yoga Mat;Sports;4;26.сен;09.июл;5;апр.99;107.6;май.38;107.21;68.41
+O00702;29.03.2025;C0031;Shymkent;Paid Search;Water Bottle;Sports;4;15.сен;04.авг;5;апр.99;63.6;мар.18;65.41;46.21
+O01192;29.03.2025;C0091;Shymkent;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;5;июн.99;23.авг;янв.19;29.июн;21.авг
+O00137;31.03.2025;C0103;Astana;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00270;31.03.2025;C0214;Astana;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;0;159.8;0.0;159.8;83.8
+O00606;31.03.2025;C0328;Karaganda;Email;Coffee Mug;Home;2;11.сен;03.сен;5;0;23.авг;янв.19;22.61;14.81
+O00748;31.03.2025;C0100;Shymkent;Social Media;Desk Lamp;Home;1;29.сен;11.авг;5;0;29.сен;01.май;28.апр;16.июн
+O00822;01.04.2025;C0284;Almaty;Email;Yoga Mat;Sports;3;26.сен;09.июл;0;фев.99;80.7;0.0;83.69;54.59
+O01153;01.04.2025;C0151;Almaty;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O00052;02.04.2025;C0298;Shymkent;Organic;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O00093;02.04.2025;C0155;Almaty;Referral;Mechanical Keyboard;Electronics;3;79.9;38.0;0;апр.99;239.7;0.0;244.69;130.69
+O00316;02.04.2025;C0055;Almaty;Referral;Resistance Bands;Sports;5;18.сен;06.фев;0;июн.99;94.5;0.0;101.49;70.49
+O00891;02.04.2025;C0252;Atyrau;Paid Search;Mechanical Keyboard;Electronics;2;79.9;38.0;15;июн.99;159.8;23.97;142.82;66.82
+O00108;03.04.2025;C0300;Karaganda;Email;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O00656;03.04.2025;C0099;Shymkent;Email;Notebook Set;Office;3;12.май;04.янв;0;июн.99;37.5;0.0;44.49;32.19
+O01063;03.04.2025;C0014;Atyrau;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00074;04.04.2025;C0026;Shymkent;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O00618;04.04.2025;C0350;Astana;Email;Desk Lamp;Home;1;29.сен;11.авг;15;апр.99;29.сен;апр.49;30.41;18.61
+O00873;04.04.2025;C0090;Atyrau;Paid Search;USB-C Cable;Electronics;2;09.сен;03.фев;0;апр.99;19.авг;0.0;24.79;18.39
+O00453;05.04.2025;C0190;Karaganda;Social Media;Yoga Mat;Sports;4;26.сен;09.июл;0;июн.99;107.6;0.0;114.59;75.79
+O00713;05.04.2025;C0163;Astana;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;20;0;159.8;31.96;127.84;51.84
+O00705;06.04.2025;C0102;Aktobe;Email;Desk Lamp;Home;2;29.сен;11.авг;5;0;59.8;фев.99;56.81;33.21
+O01099;06.04.2025;C0125;Astana;Organic;Resistance Bands;Sports;1;18.сен;06.фев;0;июн.99;18.сен;0.0;25.89;19.69
+O00480;07.04.2025;C0077;Aktobe;Paid Search;Notebook Set;Office;1;12.май;04.янв;10;апр.99;12.май;янв.25;16.24;дек.14
+O00648;07.04.2025;C0211;Aktobe;Email;Notebook Set;Office;2;12.май;04.янв;10;апр.99;25.0;02.май;27.49;19.29
+O00652;07.04.2025;C0165;Almaty;Paid Search;Water Bottle;Sports;1;15.сен;04.авг;10;июн.99;15.сен;янв.59;21.мар;16.май
+O00666;08.04.2025;C0291;Astana;Referral;Yoga Mat;Sports;2;26.сен;09.июл;5;июн.99;53.8;фев.69;58.1;38.7
+O00677;08.04.2025;C0099;Aktobe;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00756;08.04.2025;C0175;Karaganda;Referral;Wireless Mouse;Electronics;3;24.сен;10.май;15;фев.99;74.7;11.фев;66.48;34.98
+O00057;09.04.2025;C0216;Atyrau;Email;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00091;09.04.2025;C0162;Almaty;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O01057;09.04.2025;C0317;Aktobe;Referral;Resistance Bands;Sports;2;18.сен;06.фев;5;0;37.8;янв.89;35.91;23.51
+O00565;10.04.2025;C0059;Astana;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;апр.99;09.сен;0.0;14.89;ноя.69
+O00607;10.04.2025;C0018;Aktobe;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;5;апр.99;24.сен;янв.25;28.64;18.14
+O00882;10.04.2025;C0252;Shymkent;Referral;Yoga Mat;Sports;2;26.сен;09.июл;20;июн.99;53.8;окт.76;50.03;30.63
+O00779;11.04.2025;C0106;Atyrau;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;5;июн.99;18.сен;0.94;24.95;18.75
+O00881;11.04.2025;C0012;Almaty;Referral;Resistance Bands;Sports;1;18.сен;06.фев;20;апр.99;18.сен;мар.78;20.ноя;13.91
+O00504;12.04.2025;C0312;Astana;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;10;июн.99;79.9;июл.99;78.9;40.9
+O00227;13.04.2025;C0063;Astana;Organic;Laptop Stand;Office;5;34.9;14.0;0;июн.99;174.5;0.0;181.49;111.49
+O00425;13.04.2025;C0330;Aktobe;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00451;13.04.2025;C0050;Almaty;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;10;июн.99;11.сен;янв.19;17.июл;13.авг
+O00470;13.04.2025;C0030;Astana;Organic;Resistance Bands;Sports;3;18.сен;06.фев;0;фев.99;56.7;0.0;59.69;41.09
+O00489;13.04.2025;C0176;Karaganda;Referral;Coffee Mug;Home;1;11.сен;03.сен;15;фев.99;11.сен;янв.78;13.ноя;сен.21
+O00698;13.04.2025;C0192;Astana;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00888;13.04.2025;C0096;Karaganda;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O01157;13.04.2025;C0047;Almaty;Email;Laptop Stand;Office;4;34.9;14.0;0;фев.99;139.6;0.0;142.59;86.59
+O00592;14.04.2025;C0268;Aktobe;Email;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00755;14.04.2025;C0048;Karaganda;Referral;Resistance Bands;Sports;1;18.сен;06.фев;0;0;18.сен;0.0;18.сен;12.июл
+O00937;14.04.2025;C0255;Atyrau;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O00948;14.04.2025;C0082;Shymkent;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O01142;14.04.2025;C0004;Astana;Email;Laptop Stand;Office;2;34.9;14.0;10;апр.99;69.8;июн.98;67.81;39.81
+O00042;15.04.2025;C0325;Shymkent;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O00172;15.04.2025;C0155;Astana;Paid Search;Laptop Stand;Office;1;34.9;14.0;5;0;34.9;янв.75;33.16;19.16
+O00600;15.04.2025;C0212;Aktobe;Referral;Desk Lamp;Home;2;29.сен;11.авг;20;июн.99;59.8;ноя.96;54.83;31.23
+O00719;15.04.2025;C0034;Astana;Email;Notebook Set;Office;4;12.май;04.янв;0;фев.99;50.0;0.0;52.99;36.59
+O01135;15.04.2025;C0201;Almaty;Referral;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O00619;16.04.2025;C0118;Astana;Paid Search;Laptop Stand;Office;1;34.9;14.0;0;апр.99;34.9;0.0;39.89;25.89
+O00762;16.04.2025;C0278;Shymkent;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;5;0;79.9;4.0;75.91;37.91
+O01140;16.04.2025;C0067;Astana;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;10;июн.99;18.сен;янв.89;24.0;17.авг
+O00745;17.04.2025;C0316;Karaganda;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;5;0;79.9;4.0;75.91;37.91
+O01119;17.04.2025;C0113;Astana;Email;Coffee Mug;Home;2;11.сен;03.сен;10;0;23.авг;фев.38;21.42;13.62
+O00491;18.04.2025;C0087;Aktobe;Paid Search;Desk Lamp;Home;2;29.сен;11.авг;0;апр.99;59.8;0.0;64.79;41.19
+O00639;18.04.2025;C0086;Karaganda;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;5;0;19.авг;0.99;18.81;дек.41
+O01073;18.04.2025;C0313;Aktobe;Social Media;USB-C Cable;Electronics;2;09.сен;03.фев;20;июн.99;19.авг;мар.96;22.83;16.43
+O00011;19.04.2025;C0291;Atyrau;Social Media;Wireless Mouse;Electronics;3;24.сен;10.май;0;0;74.7;0.0;74.7;43.2
+O00374;19.04.2025;C0254;Shymkent;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00564;19.04.2025;C0212;Atyrau;Referral;Laptop Stand;Office;2;34.9;14.0;15;апр.99;69.8;окт.47;64.32;36.32
+O00002;22.04.2025;C0120;Aktobe;Referral;Mechanical Keyboard;Electronics;2;79.9;38.0;0;0;159.8;0.0;159.8;83.8
+O00385;22.04.2025;C0045;Almaty;Paid Search;USB-C Cable;Electronics;4;09.сен;03.фев;5;июн.99;39.6;янв.98;44.61;31.81
+O00654;22.04.2025;C0176;Karaganda;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00899;22.04.2025;C0080;Aktobe;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;15;0;11.сен;янв.78;10.дек;июн.21
+O00003;23.04.2025;C0230;Aktobe;Social Media;Wireless Mouse;Electronics;2;24.сен;10.май;10;июн.99;49.8;апр.98;51.81;30.81
+O00846;23.04.2025;C0038;Karaganda;Referral;Laptop Stand;Office;2;34.9;14.0;15;июн.99;69.8;окт.47;66.32;38.32
+O01105;23.04.2025;C0002;Atyrau;Paid Search;Yoga Mat;Sports;3;26.сен;09.июл;15;июн.99;80.7;12.янв;75.58;46.48
+O00089;24.04.2025;C0208;Atyrau;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00474;24.04.2025;C0332;Astana;Paid Search;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O00692;24.04.2025;C0222;Shymkent;Email;Yoga Mat;Sports;3;26.сен;09.июл;5;0;80.7;04.мар;76.66;47.56
+O00050;25.04.2025;C0013;Atyrau;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;10;фев.99;26.сен;фев.69;27.фев;17.май
+O00076;25.04.2025;C0333;Almaty;Organic;Yoga Mat;Sports;1;26.сен;09.июл;5;апр.99;26.сен;янв.34;30.55;20.85
+O00404;25.04.2025;C0265;Almaty;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;15;фев.99;159.8;23.97;138.82;62.82
+O00023;26.04.2025;C0033;Shymkent;Organic;Yoga Mat;Sports;4;26.сен;09.июл;0;фев.99;107.6;0.0;110.59;71.79
+O00194;26.04.2025;C0071;Astana;Organic;Laptop Stand;Office;1;34.9;14.0;10;фев.99;34.9;мар.49;34.4;20.апр
+O00542;26.04.2025;C0325;Atyrau;Social Media;Laptop Stand;Office;2;34.9;14.0;10;июн.99;69.8;июн.98;69.81;41.81
+O00611;26.04.2025;C0311;Astana;Email;Water Bottle;Sports;1;15.сен;04.авг;20;апр.99;15.сен;мар.18;17.71;дек.91
+O00718;26.04.2025;C0017;Karaganda;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;фев.99;23.авг;0.0;26.79;18.99
+O00788;26.04.2025;C0096;Karaganda;Referral;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00863;26.04.2025;C0165;Shymkent;Social Media;Laptop Stand;Office;2;34.9;14.0;5;фев.99;69.8;мар.49;69.3;41.3
+O00401;27.04.2025;C0261;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;10;0;29.сен;фев.99;26.91;15.ноя
+O00595;28.04.2025;C0247;Karaganda;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00602;28.04.2025;C0229;Atyrau;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;15;0;23.авг;мар.57;20.23;дек.43
+O00129;29.04.2025;C0237;Atyrau;Social Media;Coffee Mug;Home;2;11.сен;03.сен;0;фев.99;23.авг;0.0;26.79;18.99
+O00704;29.04.2025;C0195;Aktobe;Organic;Desk Lamp;Home;3;29.сен;11.авг;0;июн.99;89.7;0.0;96.69;61.29
+O00716;29.04.2025;C0014;Shymkent;Organic;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O01013;29.04.2025;C0032;Aktobe;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;июн.99;37.8;янв.89;42.9;30.май
+O01016;29.04.2025;C0260;Astana;Referral;Notebook Set;Office;2;12.май;04.янв;0;июн.99;25.0;0.0;31.99;23.79
+O00150;30.04.2025;C0169;Astana;Referral;Mechanical Keyboard;Electronics;3;79.9;38.0;5;фев.99;239.7;ноя.98;230.71;116.71
+O00197;30.04.2025;C0274;Astana;Social Media;Laptop Stand;Office;5;34.9;14.0;5;июн.99;174.5;авг.72;172.77;102.77
+O00686;30.04.2025;C0132;Shymkent;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;15;фев.99;09.сен;янв.49;ноя.41;авг.21
+O00125;01.05.2025;C0324;Atyrau;Social Media;Yoga Mat;Sports;3;26.сен;09.июл;0;0;80.7;0.0;80.7;51.6
+O00932;01.05.2025;C0332;Shymkent;Referral;Coffee Mug;Home;1;11.сен;03.сен;5;фев.99;11.сен;0.59;14.29;окт.39
+O00953;01.05.2025;C0217;Astana;Paid Search;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00973;01.05.2025;C0317;Karaganda;Paid Search;Coffee Mug;Home;3;11.сен;03.сен;0;апр.99;35.7;0.0;40.69;28.99
+O01041;01.05.2025;C0298;Aktobe;Referral;Notebook Set;Office;2;12.май;04.янв;0;апр.99;25.0;0.0;29.99;21.79
+O01174;01.05.2025;C0260;Almaty;Email;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00230;02.05.2025;C0253;Almaty;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;20;фев.99;18.сен;мар.78;18.ноя;ноя.91
+O00366;02.05.2025;C0108;Atyrau;Referral;Desk Lamp;Home;3;29.сен;11.авг;0;0;89.7;0.0;89.7;54.3
+O00626;02.05.2025;C0138;Karaganda;Referral;Desk Lamp;Home;2;29.сен;11.авг;0;апр.99;59.8;0.0;64.79;41.19
+O00733;02.05.2025;C0112;Aktobe;Email;Resistance Bands;Sports;3;18.сен;06.фев;5;июн.99;56.7;фев.83;60.85;42.25
+O01169;02.05.2025;C0307;Karaganda;Social Media;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00037;03.05.2025;C0136;Karaganda;Paid Search;Desk Lamp;Home;4;29.сен;11.авг;0;апр.99;119.6;0.0;124.59;77.39
+O01111;03.05.2025;C0190;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00300;04.05.2025;C0116;Shymkent;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00472;04.05.2025;C0191;Karaganda;Referral;Coffee Mug;Home;2;11.сен;03.сен;0;0;23.авг;0.0;23.авг;16.0
+O00026;05.05.2025;C0243;Karaganda;Paid Search;Laptop Stand;Office;2;34.9;14.0;10;июн.99;69.8;июн.98;69.81;41.81
+O00149;05.05.2025;C0065;Aktobe;Paid Search;Water Bottle;Sports;5;15.сен;04.авг;0;апр.99;79.5;0.0;84.49;60.49
+O00695;05.05.2025;C0037;Shymkent;Email;Yoga Mat;Sports;1;26.сен;09.июл;5;фев.99;26.сен;янв.34;28.55;18.85
+O00828;05.05.2025;C0333;Astana;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O01171;05.05.2025;C0106;Aktobe;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;10;апр.99;24.сен;фев.49;27.апр;16.сен
+O01185;05.05.2025;C0245;Almaty;Social Media;Wireless Mouse;Electronics;2;24.сен;10.май;15;фев.99;49.8;июл.47;45.32;24.32
+O00240;06.05.2025;C0208;Shymkent;Email;Resistance Bands;Sports;1;18.сен;06.фев;20;июн.99;18.сен;мар.78;22.ноя;15.91
+O00734;06.05.2025;C0281;Shymkent;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00792;06.05.2025;C0242;Atyrau;Organic;Resistance Bands;Sports;1;18.сен;06.фев;15;0;18.сен;фев.83;16.июн;сен.86
+O01059;06.05.2025;C0297;Karaganda;Organic;USB-C Cable;Electronics;5;09.сен;03.фев;0;фев.99;49.5;0.0;52.49;36.49
+O00720;07.05.2025;C0219;Karaganda;Organic;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O01067;07.05.2025;C0285;Atyrau;Paid Search;Laptop Stand;Office;4;34.9;14.0;0;0;139.6;0.0;139.6;83.6
+O00028;08.05.2025;C0099;Astana;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;10;0;79.9;июл.99;71.91;33.91
+O00029;08.05.2025;C0039;Karaganda;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00225;08.05.2025;C0059;Almaty;Paid Search;USB-C Cable;Electronics;2;09.сен;03.фев;0;апр.99;19.авг;0.0;24.79;18.39
+O00842;09.05.2025;C0172;Aktobe;Email;Wireless Mouse;Electronics;2;24.сен;10.май;0;июн.99;49.8;0.0;56.79;35.79
+O01126;09.05.2025;C0155;Atyrau;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O01164;09.05.2025;C0049;Aktobe;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;15;фев.99;56.7;08.май;51.18;32.58
+O00601;10.05.2025;C0158;Aktobe;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;5;июн.99;26.сен;янв.34;32.55;22.85
+O00659;10.05.2025;C0247;Atyrau;Social Media;Desk Lamp;Home;1;29.сен;11.авг;10;0;29.сен;фев.99;26.91;15.ноя
+O00797;10.05.2025;C0068;Aktobe;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00959;11.05.2025;C0155;Almaty;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;15;июн.99;26.сен;04.апр;29.85;20.15
+O01062;11.05.2025;C0046;Astana;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O00138;12.05.2025;C0247;Shymkent;Social Media;Desk Lamp;Home;2;29.сен;11.авг;15;фев.99;59.8;авг.97;53.82;30.22
+O00597;12.05.2025;C0097;Almaty;Organic;Laptop Stand;Office;4;34.9;14.0;0;июн.99;139.6;0.0;146.59;90.59
+O01179;12.05.2025;C0195;Karaganda;Social Media;Water Bottle;Sports;2;15.сен;04.авг;5;фев.99;31.авг;янв.59;33.2;23.июн
+O01194;13.05.2025;C0210;Karaganda;Referral;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00412;14.05.2025;C0162;Karaganda;Social Media;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00417;14.05.2025;C0090;Almaty;Email;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00599;14.05.2025;C0275;Karaganda;Referral;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00978;14.05.2025;C0087;Aktobe;Email;USB-C Cable;Electronics;5;09.сен;03.фев;5;фев.99;49.5;фев.48;50.02;34.02
+O00226;15.05.2025;C0134;Atyrau;Email;Yoga Mat;Sports;2;26.сен;09.июл;15;0;53.8;08.июл;45.73;26.33
+O00454;15.05.2025;C0116;Shymkent;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00890;15.05.2025;C0154;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;10;фев.99;26.сен;фев.69;27.фев;17.май
+O00021;16.05.2025;C0271;Aktobe;Email;USB-C Cable;Electronics;1;09.сен;03.фев;0;фев.99;09.сен;0.0;дек.89;сен.69
+O00041;16.05.2025;C0060;Almaty;Referral;Resistance Bands;Sports;1;18.сен;06.фев;5;фев.99;18.сен;0.94;20.95;14.75
+O00100;16.05.2025;C0339;Almaty;Paid Search;Mechanical Keyboard;Electronics;4;79.9;38.0;0;фев.99;319.6;0.0;322.59;170.59
+O01045;16.05.2025;C0300;Karaganda;Email;Desk Lamp;Home;2;29.сен;11.авг;0;июн.99;59.8;0.0;66.79;43.19
+O00429;17.05.2025;C0274;Atyrau;Organic;Laptop Stand;Office;5;34.9;14.0;0;фев.99;174.5;0.0;177.49;107.49
+O00943;18.05.2025;C0327;Aktobe;Referral;Yoga Mat;Sports;1;26.сен;09.июл;20;июн.99;26.сен;май.38;28.51;18.81
+O00995;18.05.2025;C0289;Aktobe;Email;Laptop Stand;Office;2;34.9;14.0;15;июн.99;69.8;окт.47;66.32;38.32
+O00321;19.05.2025;C0024;Almaty;Social Media;Laptop Stand;Office;1;34.9;14.0;15;июн.99;34.9;май.24;36.66;22.66
+O00403;19.05.2025;C0040;Aktobe;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00848;19.05.2025;C0104;Shymkent;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;10;апр.99;29.сен;фев.99;31.9;20.янв
+O00897;19.05.2025;C0186;Almaty;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;15;апр.99;19.авг;фев.97;21.82;15.42
+O00216;20.05.2025;C0064;Shymkent;Email;Desk Lamp;Home;3;29.сен;11.авг;0;апр.99;89.7;0.0;94.69;59.29
+O00273;20.05.2025;C0099;Almaty;Social Media;Yoga Mat;Sports;3;26.сен;09.июл;0;июн.99;80.7;0.0;87.69;58.59
+O00399;20.05.2025;C0269;Almaty;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00761;20.05.2025;C0077;Astana;Social Media;Notebook Set;Office;2;12.май;04.янв;10;0;25.0;02.май;22.май;14.мар
+O00939;20.05.2025;C0035;Aktobe;Referral;Mechanical Keyboard;Electronics;2;79.9;38.0;5;апр.99;159.8;июл.99;156.8;80.8
+O01074;20.05.2025;C0126;Atyrau;Social Media;Desk Lamp;Home;2;29.сен;11.авг;20;июн.99;59.8;ноя.96;54.83;31.23
+O01176;20.05.2025;C0247;Almaty;Social Media;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O00067;21.05.2025;C0226;Almaty;Social Media;Notebook Set;Office;3;12.май;04.янв;5;фев.99;37.5;янв.88;38.62;26.32
+O00471;21.05.2025;C0189;Karaganda;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00812;22.05.2025;C0219;Atyrau;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;июн.99;53.8;0.0;60.79;41.39
+O00840;22.05.2025;C0028;Astana;Organic;Laptop Stand;Office;1;34.9;14.0;5;фев.99;34.9;янв.75;36.15;22.15
+O00075;23.05.2025;C0216;Shymkent;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O00085;23.05.2025;C0231;Astana;Email;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00164;23.05.2025;C0294;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;5;0;79.9;4.0;75.91;37.91
+O00393;23.05.2025;C0043;Shymkent;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00423;24.05.2025;C0229;Astana;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;15;апр.99;09.сен;янв.49;13.41;окт.21
+O00466;24.05.2025;C0252;Atyrau;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;10;апр.99;24.сен;фев.49;27.апр;16.сен
+O00572;24.05.2025;C0072;Aktobe;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00653;25.05.2025;C0138;Astana;Email;Wireless Mouse;Electronics;5;24.сен;10.май;0;0;124.5;0.0;124.5;72.0
+O00909;25.05.2025;C0088;Aktobe;Organic;Water Bottle;Sports;3;15.сен;04.авг;5;фев.99;47.7;фев.38;48.31;33.91
+O00650;26.05.2025;C0333;Atyrau;Referral;Coffee Mug;Home;2;11.сен;03.сен;5;апр.99;23.авг;янв.19;27.июн;19.авг
+O00724;27.05.2025;C0237;Astana;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;апр.99;24.сен;0.0;29.89;19.39
+O00130;28.05.2025;C0347;Aktobe;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00699;28.05.2025;C0008;Shymkent;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O00731;28.05.2025;C0321;Astana;Organic;Coffee Mug;Home;1;11.сен;03.сен;10;июн.99;11.сен;янв.19;17.июл;13.авг
+O00971;28.05.2025;C0254;Karaganda;Paid Search;Laptop Stand;Office;2;34.9;14.0;0;апр.99;69.8;0.0;74.79;46.79
+O01144;28.05.2025;C0331;Karaganda;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00496;29.05.2025;C0234;Atyrau;Referral;Notebook Set;Office;1;12.май;04.янв;10;апр.99;12.май;янв.25;16.24;дек.14
+O00208;30.05.2025;C0220;Almaty;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;5;фев.99;49.8;фев.49;50.3;29.мар
+O00362;30.05.2025;C0017;Shymkent;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;5;фев.99;26.сен;янв.34;28.55;18.85
+O00127;31.05.2025;C0184;Shymkent;Email;Notebook Set;Office;4;12.май;04.янв;0;0;50.0;0.0;50.0;33.6
+O00445;31.05.2025;C0011;Shymkent;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;10;0;09.сен;0.99;авг.91;май.71
+O00543;31.05.2025;C0230;Astana;Organic;Water Bottle;Sports;2;15.сен;04.авг;5;фев.99;31.авг;янв.59;33.2;23.июн
+O00781;31.05.2025;C0032;Shymkent;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;5;фев.99;49.8;фев.49;50.3;29.мар
+O01124;31.05.2025;C0257;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00309;01.06.2025;C0079;Astana;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;20;июн.99;24.сен;апр.98;26.91;16.41
+O00388;01.06.2025;C0331;Almaty;Paid Search;Laptop Stand;Office;2;34.9;14.0;5;июн.99;69.8;мар.49;73.3;45.3
+O00505;01.06.2025;C0083;Almaty;Referral;Resistance Bands;Sports;5;18.сен;06.фев;0;июн.99;94.5;0.0;101.49;70.49
+O00508;01.06.2025;C0136;Karaganda;Organic;Mechanical Keyboard;Electronics;4;79.9;38.0;5;июн.99;319.6;15.98;310.61;158.61
+O00859;01.06.2025;C0219;Shymkent;Referral;Coffee Mug;Home;4;11.сен;03.сен;0;0;47.6;0.0;47.6;32.0
+O00365;02.06.2025;C0017;Karaganda;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O00206;04.06.2025;C0063;Almaty;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;10;фев.99;18.сен;янв.89;20.0;13.авг
+O00502;04.06.2025;C0216;Atyrau;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00977;04.06.2025;C0203;Atyrau;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;5;июн.99;24.сен;янв.25;30.64;20.14
+O01163;04.06.2025;C0307;Karaganda;Organic;Desk Lamp;Home;1;29.сен;11.авг;15;июн.99;29.сен;апр.49;32.41;20.61
+O00058;05.06.2025;C0147;Astana;Email;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O00304;05.06.2025;C0008;Astana;Paid Search;Laptop Stand;Office;1;34.9;14.0;15;апр.99;34.9;май.24;34.66;20.66
+O00335;05.06.2025;C0004;Karaganda;Social Media;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00676;05.06.2025;C0040;Astana;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00714;05.06.2025;C0227;Atyrau;Social Media;Desk Lamp;Home;3;29.сен;11.авг;0;июн.99;89.7;0.0;96.69;61.29
+O01020;05.06.2025;C0121;Astana;Referral;Water Bottle;Sports;2;15.сен;04.авг;10;июн.99;31.авг;мар.18;35.61;26.янв
+O00690;06.06.2025;C0269;Almaty;Social Media;Wireless Mouse;Electronics;2;24.сен;10.май;5;0;49.8;фев.49;47.31;26.31
+O00697;06.06.2025;C0087;Shymkent;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00871;06.06.2025;C0088;Shymkent;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O00776;07.06.2025;C0208;Almaty;Referral;Desk Lamp;Home;2;29.сен;11.авг;10;фев.99;59.8;май.98;56.81;33.21
+O00879;07.06.2025;C0013;Karaganda;Referral;Yoga Mat;Sports;4;26.сен;09.июл;0;0;107.6;0.0;107.6;68.8
+O00903;07.06.2025;C0065;Astana;Paid Search;Laptop Stand;Office;1;34.9;14.0;10;фев.99;34.9;мар.49;34.4;20.апр
+O00641;08.06.2025;C0118;Astana;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00022;09.06.2025;C0205;Atyrau;Social Media;Laptop Stand;Office;4;34.9;14.0;10;фев.99;139.6;13.96;128.63;72.63
+O00710;09.06.2025;C0310;Shymkent;Email;Laptop Stand;Office;1;34.9;14.0;5;июн.99;34.9;янв.75;40.15;26.15
+O01100;09.06.2025;C0299;Aktobe;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;5;апр.99;24.сен;янв.25;28.64;18.14
+O00964;10.06.2025;C0295;Almaty;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;0;апр.99;09.сен;0.0;14.89;ноя.69
+O01034;10.06.2025;C0177;Almaty;Social Media;Notebook Set;Office;1;12.май;04.янв;15;апр.99;12.май;янв.88;15.62;ноя.52
+O01093;10.06.2025;C0034;Astana;Organic;Mechanical Keyboard;Electronics;5;79.9;38.0;15;июн.99;399.5;59.92;346.56;156.56
+O00386;11.06.2025;C0072;Astana;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O01199;11.06.2025;C0123;Shymkent;Email;Coffee Mug;Home;1;11.сен;03.сен;10;апр.99;11.сен;янв.19;15.июл;11.авг
+O00263;12.06.2025;C0246;Shymkent;Referral;Notebook Set;Office;2;12.май;04.янв;10;июн.99;25.0;02.май;29.49;21.29
+O00328;12.06.2025;C0185;Almaty;Organic;Coffee Mug;Home;2;11.сен;03.сен;5;июн.99;23.авг;янв.19;29.июн;21.авг
+O00568;12.06.2025;C0249;Karaganda;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00664;12.06.2025;C0286;Atyrau;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;0;фев.99;56.7;0.0;59.69;41.09
+O00955;12.06.2025;C0280;Karaganda;Email;Yoga Mat;Sports;2;26.сен;09.июл;10;0;53.8;май.38;48.42;29.02
+O00441;13.06.2025;C0086;Atyrau;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;0;апр.99;09.сен;0.0;14.89;ноя.69
+O00156;14.06.2025;C0312;Astana;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00269;14.06.2025;C0147;Atyrau;Organic;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00467;14.06.2025;C0138;Atyrau;Email;Laptop Stand;Office;1;34.9;14.0;20;июн.99;34.9;июн.98;34.91;20.91
+O00553;14.06.2025;C0264;Almaty;Organic;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O00760;14.06.2025;C0103;Astana;Social Media;Wireless Mouse;Electronics;2;24.сен;10.май;0;фев.99;49.8;0.0;52.79;31.79
+O01064;15.06.2025;C0133;Karaganda;Organic;Notebook Set;Office;1;12.май;04.янв;0;июн.99;12.май;0.0;19.49;15.39
+O01161;15.06.2025;C0089;Almaty;Email;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00687;16.06.2025;C0248;Astana;Email;Water Bottle;Sports;1;15.сен;04.авг;15;0;15.сен;фев.38;13.52;авг.71
+O00831;16.06.2025;C0062;Atyrau;Referral;Laptop Stand;Office;1;34.9;14.0;10;июн.99;34.9;мар.49;38.4;24.апр
+O00990;16.06.2025;C0292;Astana;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00219;17.06.2025;C0339;Shymkent;Social Media;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O00253;17.06.2025;C0314;Shymkent;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00325;17.06.2025;C0016;Atyrau;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00405;17.06.2025;C0045;Aktobe;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;15;апр.99;239.7;35.96;208.74;94.74
+O00777;17.06.2025;C0254;Atyrau;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;5;июн.99;159.8;июл.99;158.8;82.8
+O00189;18.06.2025;C0049;Aktobe;Email;Wireless Mouse;Electronics;3;24.сен;10.май;5;0;74.7;мар.73;70.96;39.46
+O00277;18.06.2025;C0155;Aktobe;Referral;Notebook Set;Office;1;12.май;04.янв;0;апр.99;12.май;0.0;17.49;13.39
+O00740;18.06.2025;C0270;Karaganda;Referral;Yoga Mat;Sports;1;26.сен;09.июл;10;апр.99;26.сен;фев.69;29.2;19.май
+O00069;19.06.2025;C0278;Karaganda;Email;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O00345;19.06.2025;C0221;Almaty;Organic;Water Bottle;Sports;1;15.сен;04.авг;20;июн.99;15.сен;мар.18;19.71;14.91
+O00448;19.06.2025;C0106;Astana;Email;Water Bottle;Sports;3;15.сен;04.авг;0;0;47.7;0.0;47.7;33.3
+O00506;19.06.2025;C0121;Almaty;Organic;Yoga Mat;Sports;4;26.сен;09.июл;10;июн.99;107.6;окт.76;103.83;65.03
+O00549;19.06.2025;C0185;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;15;апр.99;79.9;ноя.98;72.91;34.91
+O00567;19.06.2025;C0183;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00655;19.06.2025;C0042;Astana;Organic;Yoga Mat;Sports;5;26.сен;09.июл;0;0;134.5;0.0;134.5;86.0
+O00736;19.06.2025;C0045;Almaty;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;апр.99;24.сен;0.0;29.89;19.39
+O01106;19.06.2025;C0193;Astana;Email;Laptop Stand;Office;1;34.9;14.0;0;июн.99;34.9;0.0;41.89;27.89
+O00178;20.06.2025;C0087;Almaty;Referral;Coffee Mug;Home;3;11.сен;03.сен;10;фев.99;35.7;мар.57;35.12;23.42
+O00190;20.06.2025;C0042;Aktobe;Paid Search;Notebook Set;Office;1;12.май;04.янв;15;фев.99;12.май;янв.88;13.62;сен.52
+O00820;20.06.2025;C0350;Shymkent;Email;Yoga Mat;Sports;1;26.сен;09.июл;5;апр.99;26.сен;янв.34;30.55;20.85
+O01165;20.06.2025;C0090;Atyrau;Social Media;Coffee Mug;Home;2;11.сен;03.сен;20;фев.99;23.авг;апр.76;22.мар;14.23
+O00336;21.06.2025;C0221;Atyrau;Referral;Water Bottle;Sports;1;15.сен;04.авг;15;июн.99;15.сен;фев.38;20.51;15.71
+O00408;21.06.2025;C0001;Atyrau;Email;Coffee Mug;Home;1;11.сен;03.сен;5;0;11.сен;0.59;11.мар;07.апр
+O00805;21.06.2025;C0139;Shymkent;Organic;Coffee Mug;Home;2;11.сен;03.сен;5;апр.99;23.авг;янв.19;27.июн;19.авг
+O00436;22.06.2025;C0155;Shymkent;Paid Search;Desk Lamp;Home;2;29.сен;11.авг;5;0;59.8;фев.99;56.81;33.21
+O00479;22.06.2025;C0142;Atyrau;Social Media;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00936;22.06.2025;C0255;Aktobe;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00166;23.06.2025;C0180;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;10;апр.99;24.сен;фев.49;27.апр;16.сен
+O00217;23.06.2025;C0096;Karaganda;Email;Coffee Mug;Home;2;11.сен;03.сен;15;июн.99;23.авг;мар.57;27.22;19.42
+O01109;23.06.2025;C0284;Astana;Paid Search;Notebook Set;Office;1;12.май;04.янв;15;фев.99;12.май;янв.88;13.62;сен.52
+O00004;24.06.2025;C0143;Astana;Paid Search;Wireless Mouse;Electronics;3;24.сен;10.май;0;июн.99;74.7;0.0;81.69;50.19
+O00434;24.06.2025;C0091;Shymkent;Organic;Desk Lamp;Home;4;29.сен;11.авг;0;фев.99;119.6;0.0;122.59;75.39
+O00523;24.06.2025;C0187;Almaty;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;5;июн.99;37.8;янв.89;42.9;30.май
+O00525;24.06.2025;C0182;Atyrau;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;5;0;79.9;4.0;75.91;37.91
+O01003;24.06.2025;C0096;Astana;Paid Search;Yoga Mat;Sports;3;26.сен;09.июл;0;апр.99;80.7;0.0;85.69;56.59
+O01130;24.06.2025;C0044;Shymkent;Paid Search;Resistance Bands;Sports;3;18.сен;06.фев;10;июн.99;56.7;май.67;58.02;39.42
+O00350;25.06.2025;C0332;Almaty;Paid Search;Notebook Set;Office;1;12.май;04.янв;10;0;12.май;янв.25;ноя.25;июл.15
+O00375;25.06.2025;C0350;Almaty;Organic;Notebook Set;Office;1;12.май;04.янв;5;июн.99;12.май;0.62;18.87;14.77
+O00483;25.06.2025;C0114;Atyrau;Referral;Water Bottle;Sports;2;15.сен;04.авг;5;фев.99;31.авг;янв.59;33.2;23.июн
+O00497;25.06.2025;C0251;Shymkent;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00793;25.06.2025;C0274;Almaty;Email;Resistance Bands;Sports;3;18.сен;06.фев;0;0;56.7;0.0;56.7;38.1
+O00005;26.06.2025;C0310;Shymkent;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00211;26.06.2025;C0124;Atyrau;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00242;26.06.2025;C0205;Astana;Social Media;Water Bottle;Sports;1;15.сен;04.авг;15;апр.99;15.сен;фев.38;18.51;13.71
+O00473;26.06.2025;C0084;Shymkent;Organic;Yoga Mat;Sports;1;26.сен;09.июл;15;апр.99;26.сен;04.апр;27.85;18.15
+O00235;27.06.2025;C0266;Shymkent;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;20;фев.99;09.сен;янв.98;окт.91;июл.71
+O00348;28.06.2025;C0160;Shymkent;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;20;фев.99;79.9;15.98;66.91;28.91
+O00838;28.06.2025;C0215;Almaty;Referral;Yoga Mat;Sports;2;26.сен;09.июл;0;апр.99;53.8;0.0;58.79;39.39
+O00051;29.06.2025;C0329;Aktobe;Email;Coffee Mug;Home;1;11.сен;03.сен;15;апр.99;11.сен;янв.78;15.ноя;ноя.21
+O00179;29.06.2025;C0331;Astana;Paid Search;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00220;29.06.2025;C0229;Almaty;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;июн.99;53.8;0.0;60.79;41.39
+O00770;29.06.2025;C0246;Karaganda;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00884;29.06.2025;C0158;Karaganda;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00212;30.06.2025;C0280;Shymkent;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;0;31.авг;0.0;31.авг;22.фев
+O00609;30.06.2025;C0343;Karaganda;Email;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00680;30.06.2025;C0162;Aktobe;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;июн.99;18.сен;0.0;25.89;19.69
+O00962;30.06.2025;C0216;Aktobe;Referral;Mechanical Keyboard;Electronics;3;79.9;38.0;10;0;239.7;23.97;215.73;101.73
+O00162;01.07.2025;C0341;Karaganda;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;июн.99;37.8;янв.89;42.9;30.май
+O00317;01.07.2025;C0137;Karaganda;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O00430;01.07.2025;C0089;Astana;Paid Search;Laptop Stand;Office;2;34.9;14.0;20;июн.99;69.8;13.96;62.83;34.83
+O00707;01.07.2025;C0321;Shymkent;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00751;01.07.2025;C0034;Astana;Social Media;Desk Lamp;Home;2;29.сен;11.авг;0;апр.99;59.8;0.0;64.79;41.19
+O01023;01.07.2025;C0024;Aktobe;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O01021;02.07.2025;C0347;Astana;Paid Search;Wireless Mouse;Electronics;5;24.сен;10.май;0;апр.99;124.5;0.0;129.49;76.99
+O00360;03.07.2025;C0005;Karaganda;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;15;0;09.сен;янв.49;авг.42;май.22
+O00514;03.07.2025;C0314;Almaty;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O00559;03.07.2025;C0258;Almaty;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;5;0;239.7;ноя.98;227.72;113.72
+O00578;03.07.2025;C0021;Astana;Email;Water Bottle;Sports;2;15.сен;04.авг;20;июн.99;31.авг;июн.36;32.43;22.83
+O00665;03.07.2025;C0069;Shymkent;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;июн.99;53.8;0.0;60.79;41.39
+O00334;04.07.2025;C0129;Astana;Email;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00509;04.07.2025;C0347;Shymkent;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;15;апр.99;239.7;35.96;208.74;94.74
+O00608;04.07.2025;C0123;Atyrau;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;0;37.8;янв.89;35.91;23.51
+O00632;04.07.2025;C0287;Aktobe;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00682;04.07.2025;C0232;Karaganda;Email;Laptop Stand;Office;1;34.9;14.0;5;апр.99;34.9;янв.75;38.15;24.15
+O00223;05.07.2025;C0197;Aktobe;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;апр.99;24.сен;0.0;29.89;19.39
+O00249;05.07.2025;C0284;Shymkent;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00956;05.07.2025;C0244;Atyrau;Social Media;Laptop Stand;Office;5;34.9;14.0;15;фев.99;174.5;26.18;151.31;81.31
+O00046;06.07.2025;C0021;Shymkent;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O00055;06.07.2025;C0221;Almaty;Social Media;Resistance Bands;Sports;2;18.сен;06.фев;20;фев.99;37.8;июл.56;33.23;20.83
+O00576;06.07.2025;C0258;Almaty;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;5;июн.99;09.сен;0.49;16.апр;13.фев
+O00354;07.07.2025;C0167;Astana;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;10;фев.99;159.8;15.98;146.81;70.81
+O00390;07.07.2025;C0280;Atyrau;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;15;июн.99;09.сен;янв.49;15.41;дек.21
+O00821;07.07.2025;C0274;Shymkent;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;20;0;49.8;сен.96;39.84;18.84
+O00910;07.07.2025;C0302;Astana;Email;Mechanical Keyboard;Electronics;4;79.9;38.0;15;июн.99;319.6;47.94;278.65;126.65
+O00930;07.07.2025;C0179;Atyrau;Referral;Desk Lamp;Home;1;29.сен;11.авг;5;фев.99;29.сен;01.май;31.39;19.59
+O01101;08.07.2025;C0005;Aktobe;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O01148;08.07.2025;C0040;Almaty;Referral;Laptop Stand;Office;4;34.9;14.0;0;0;139.6;0.0;139.6;83.6
+O00168;09.07.2025;C0160;Atyrau;Social Media;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00224;10.07.2025;C0228;Almaty;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;апр.99;15.сен;0.0;20.89;16.сен
+O00398;10.07.2025;C0065;Atyrau;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;10;фев.99;56.7;май.67;54.02;35.42
+O00662;10.07.2025;C0046;Astana;Paid Search;Water Bottle;Sports;3;15.сен;04.авг;0;фев.99;47.7;0.0;50.69;36.29
+O00754;10.07.2025;C0232;Shymkent;Paid Search;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O00864;10.07.2025;C0177;Karaganda;Email;Resistance Bands;Sports;2;18.сен;06.фев;0;0;37.8;0.0;37.8;25.апр
+O00314;11.07.2025;C0031;Aktobe;Referral;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O00289;12.07.2025;C0042;Atyrau;Referral;Coffee Mug;Home;1;11.сен;03.сен;15;июн.99;11.сен;янв.78;17.ноя;13.21
+O00371;12.07.2025;C0232;Almaty;Organic;Yoga Mat;Sports;1;26.сен;09.июл;5;июн.99;26.сен;янв.34;32.55;22.85
+O00342;13.07.2025;C0038;Karaganda;Referral;Laptop Stand;Office;1;34.9;14.0;0;июн.99;34.9;0.0;41.89;27.89
+O00438;13.07.2025;C0158;Atyrau;Social Media;Water Bottle;Sports;3;15.сен;04.авг;0;фев.99;47.7;0.0;50.69;36.29
+O00544;13.07.2025;C0021;Karaganda;Social Media;USB-C Cable;Electronics;5;09.сен;03.фев;10;0;49.5;апр.95;44.55;28.55
+O00649;13.07.2025;C0113;Shymkent;Organic;Coffee Mug;Home;1;11.сен;03.сен;10;июн.99;11.сен;янв.19;17.июл;13.авг
+O00729;13.07.2025;C0282;Karaganda;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O00935;13.07.2025;C0293;Karaganda;Social Media;Wireless Mouse;Electronics;2;24.сен;10.май;5;апр.99;49.8;фев.49;52.3;31.мар
+O00967;13.07.2025;C0293;Astana;Organic;Laptop Stand;Office;1;34.9;14.0;0;июн.99;34.9;0.0;41.89;27.89
+O01042;13.07.2025;C0267;Atyrau;Paid Search;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00306;14.07.2025;C0239;Aktobe;Social Media;Coffee Mug;Home;4;11.сен;03.сен;5;апр.99;47.6;фев.38;50.21;34.61
+O00501;14.07.2025;C0064;Aktobe;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00625;14.07.2025;C0298;Almaty;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00157;15.07.2025;C0306;Aktobe;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;5;апр.99;09.сен;0.49;14.апр;11.фев
+O00560;15.07.2025;C0203;Atyrau;Organic;Notebook Set;Office;2;12.май;04.янв;0;июн.99;25.0;0.0;31.99;23.79
+O00813;15.07.2025;C0199;Shymkent;Organic;Notebook Set;Office;1;12.май;04.янв;0;0;12.май;0.0;12.май;08.апр
+O00922;15.07.2025;C0310;Atyrau;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O01061;15.07.2025;C0132;Almaty;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;15;апр.99;09.сен;янв.49;13.41;окт.21
+O01123;15.07.2025;C0013;Astana;Email;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O01150;15.07.2025;C0176;Atyrau;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;5;июн.99;159.8;июл.99;158.8;82.8
+O01166;15.07.2025;C0262;Atyrau;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O01178;15.07.2025;C0219;Almaty;Social Media;USB-C Cable;Electronics;3;09.сен;03.фев;10;0;29.июл;фев.97;26.73;17.13
+O00463;16.07.2025;C0336;Karaganda;Referral;Resistance Bands;Sports;3;18.сен;06.фев;15;апр.99;56.7;08.май;53.18;34.58
+O01096;16.07.2025;C0238;Karaganda;Referral;Water Bottle;Sports;3;15.сен;04.авг;5;июн.99;47.7;фев.38;52.31;37.91
+O01182;16.07.2025;C0251;Shymkent;Referral;Coffee Mug;Home;4;11.сен;03.сен;20;апр.99;47.6;сен.52;43.07;27.47
+O00121;17.07.2025;C0340;Atyrau;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00331;17.07.2025;C0007;Shymkent;Email;Resistance Bands;Sports;1;18.сен;06.фев;5;апр.99;18.сен;0.94;22.95;16.75
+O00512;17.07.2025;C0245;Karaganda;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;20;апр.99;79.9;15.98;68.91;30.91
+O00657;17.07.2025;C0227;Astana;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O01183;17.07.2025;C0290;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00456;18.07.2025;C0268;Karaganda;Referral;Coffee Mug;Home;5;11.сен;03.сен;5;0;59.5;фев.98;56.52;37.02
+O00708;18.07.2025;C0016;Aktobe;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O01078;18.07.2025;C0091;Atyrau;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;10;апр.99;79.9;июл.99;76.9;38.9
+O00072;19.07.2025;C0173;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00210;19.07.2025;C0241;Almaty;Email;Resistance Bands;Sports;2;18.сен;06.фев;20;0;37.8;июл.56;30.24;17.84
+O00575;20.07.2025;C0115;Aktobe;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;10;апр.99;18.сен;янв.89;22.0;15.авг
+O00765;20.07.2025;C0092;Atyrau;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00818;20.07.2025;C0295;Almaty;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;0;апр.99;49.8;0.0;54.79;33.79
+O00866;20.07.2025;C0092;Shymkent;Organic;Laptop Stand;Office;4;34.9;14.0;0;0;139.6;0.0;139.6;83.6
+O01139;20.07.2025;C0081;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;15;июн.99;24.сен;мар.73;28.16;17.66
+O00073;21.07.2025;C0304;Aktobe;Organic;USB-C Cable;Electronics;3;09.сен;03.фев;15;0;29.июл;апр.46;25.25;15.64
+O00246;21.07.2025;C0259;Karaganda;Paid Search;Yoga Mat;Sports;3;26.сен;09.июл;0;0;80.7;0.0;80.7;51.6
+O00527;21.07.2025;C0111;Karaganda;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00721;21.07.2025;C0314;Atyrau;Referral;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00726;21.07.2025;C0212;Shymkent;Email;Resistance Bands;Sports;1;18.сен;06.фев;10;фев.99;18.сен;янв.89;20.0;13.авг
+O00988;21.07.2025;C0192;Aktobe;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;0;0;239.7;0.0;239.7;125.7
+O00264;22.07.2025;C0177;Astana;Social Media;Notebook Set;Office;1;12.май;04.янв;5;июн.99;12.май;0.62;18.87;14.77
+O00286;22.07.2025;C0131;Almaty;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00352;22.07.2025;C0015;Atyrau;Referral;Coffee Mug;Home;2;11.сен;03.сен;0;июн.99;23.авг;0.0;30.79;22.99
+O00661;22.07.2025;C0125;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;10;0;29.сен;фев.99;26.91;15.ноя
+O00916;22.07.2025;C0225;Aktobe;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;5;0;09.сен;0.49;сен.41;июн.21
+O00080;23.07.2025;C0102;Almaty;Referral;Wireless Mouse;Electronics;4;24.сен;10.май;5;июн.99;99.6;апр.98;101.61;59.61
+O00883;23.07.2025;C0076;Atyrau;Email;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00063;24.07.2025;C0125;Astana;Organic;Water Bottle;Sports;1;15.сен;04.авг;10;июн.99;15.сен;янв.59;21.мар;16.май
+O00941;25.07.2025;C0129;Aktobe;Referral;Coffee Mug;Home;2;11.сен;03.сен;0;июн.99;23.авг;0.0;30.79;22.99
+O01032;25.07.2025;C0085;Karaganda;Organic;Resistance Bands;Sports;4;18.сен;06.фев;0;апр.99;75.6;0.0;80.59;55.79
+O00035;26.07.2025;C0062;Aktobe;Paid Search;Mechanical Keyboard;Electronics;2;79.9;38.0;5;фев.99;159.8;июл.99;154.8;78.8
+O00520;26.07.2025;C0121;Almaty;Email;Notebook Set;Office;1;12.май;04.янв;0;июн.99;12.май;0.0;19.49;15.39
+O00826;27.07.2025;C0061;Astana;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00468;28.07.2025;C0249;Aktobe;Social Media;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00557;28.07.2025;C0199;Karaganda;Email;Resistance Bands;Sports;1;18.сен;06.фев;10;апр.99;18.сен;янв.89;22.0;15.авг
+O00101;29.07.2025;C0231;Atyrau;Referral;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00188;29.07.2025;C0174;Atyrau;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;15;июн.99;09.сен;янв.49;15.41;дек.21
+O00232;29.07.2025;C0295;Almaty;Paid Search;Coffee Mug;Home;5;11.сен;03.сен;10;июн.99;59.5;май.95;60.54;41.04
+O00361;29.07.2025;C0252;Karaganda;Email;Laptop Stand;Office;3;34.9;14.0;20;июн.99;104.7;20.94;90.75;48.75
+O00954;29.07.2025;C0131;Aktobe;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;20;июн.99;79.9;15.98;70.91;32.91
+O00027;30.07.2025;C0240;Atyrau;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00048;30.07.2025;C0343;Atyrau;Paid Search;USB-C Cable;Electronics;3;09.сен;03.фев;0;апр.99;29.июл;0.0;34.69;25.сен
+O00259;30.07.2025;C0257;Aktobe;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00297;31.07.2025;C0154;Shymkent;Organic;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00638;31.07.2025;C0086;Astana;Organic;Yoga Mat;Sports;3;26.сен;09.июл;20;июн.99;80.7;16.14;71.55;42.45
+O01076;31.07.2025;C0285;Atyrau;Email;Water Bottle;Sports;1;15.сен;04.авг;15;фев.99;15.сен;фев.38;16.51;ноя.71
+O00116;01.08.2025;C0248;Karaganda;Paid Search;Yoga Mat;Sports;4;26.сен;09.июл;0;апр.99;107.6;0.0;112.59;73.79
+O00170;01.08.2025;C0140;Astana;Referral;Notebook Set;Office;1;12.май;04.янв;0;июн.99;12.май;0.0;19.49;15.39
+O00548;01.08.2025;C0279;Aktobe;Email;USB-C Cable;Electronics;2;09.сен;03.фев;10;фев.99;19.авг;янв.98;20.81;14.41
+O01029;01.08.2025;C0185;Atyrau;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;апр.99;25.0;0.0;29.99;21.79
+O01145;01.08.2025;C0128;Astana;Referral;Notebook Set;Office;1;12.май;04.янв;10;фев.99;12.май;янв.25;14.24;окт.14
+O00689;02.08.2025;C0062;Astana;Referral;Wireless Mouse;Electronics;4;24.сен;10.май;0;июн.99;99.6;0.0;106.59;64.59
+O00900;02.08.2025;C0236;Almaty;Organic;Laptop Stand;Office;3;34.9;14.0;5;0;104.7;май.24;99.46;57.46
+O00987;02.08.2025;C0040;Astana;Email;Water Bottle;Sports;5;15.сен;04.авг;0;фев.99;79.5;0.0;82.49;58.49
+O00358;03.08.2025;C0306;Astana;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00409;03.08.2025;C0252;Almaty;Paid Search;Notebook Set;Office;1;12.май;04.янв;5;фев.99;12.май;0.62;14.87;окт.77
+O00443;03.08.2025;C0086;Karaganda;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O00482;03.08.2025;C0208;Karaganda;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;20;апр.99;49.8;сен.96;44.83;23.83
+O00503;03.08.2025;C0054;Aktobe;Referral;Resistance Bands;Sports;1;18.сен;06.фев;5;фев.99;18.сен;0.94;20.95;14.75
+O00531;03.08.2025;C0312;Atyrau;Paid Search;Water Bottle;Sports;3;15.сен;04.авг;5;июн.99;47.7;фев.38;52.31;37.91
+O00627;03.08.2025;C0191;Shymkent;Email;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O01104;03.08.2025;C0169;Astana;Organic;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00486;04.08.2025;C0170;Shymkent;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00794;04.08.2025;C0181;Shymkent;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;0;апр.99;53.8;0.0;58.79;39.39
+O00032;05.08.2025;C0285;Atyrau;Email;Notebook Set;Office;4;12.май;04.янв;10;апр.99;50.0;5.0;49.99;33.59
+O01009;05.08.2025;C0012;Almaty;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O01039;05.08.2025;C0259;Almaty;Organic;Resistance Bands;Sports;2;18.сен;06.фев;0;апр.99;37.8;0.0;42.79;30.39
+O01102;05.08.2025;C0177;Astana;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;5;0;09.сен;0.49;сен.41;июн.21
+O00090;06.08.2025;C0282;Shymkent;Social Media;Notebook Set;Office;2;12.май;04.янв;0;апр.99;25.0;0.0;29.99;21.79
+O00103;06.08.2025;C0059;Aktobe;Paid Search;Notebook Set;Office;3;12.май;04.янв;5;фев.99;37.5;янв.88;38.62;26.32
+O00218;06.08.2025;C0041;Karaganda;Referral;Desk Lamp;Home;4;29.сен;11.авг;5;0;119.6;май.98;113.62;66.42
+O00596;06.08.2025;C0069;Shymkent;Email;Water Bottle;Sports;3;15.сен;04.авг;15;0;47.7;июл.16;40.55;26.15
+O00854;06.08.2025;C0272;Karaganda;Email;Wireless Mouse;Electronics;5;24.сен;10.май;10;0;124.5;дек.45;112.05;59.55
+O00911;06.08.2025;C0110;Aktobe;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O01175;06.08.2025;C0091;Aktobe;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;10;фев.99;26.сен;фев.69;27.фев;17.май
+O00275;07.08.2025;C0264;Shymkent;Organic;Laptop Stand;Office;1;34.9;14.0;15;июн.99;34.9;май.24;36.66;22.66
+O00739;07.08.2025;C0282;Almaty;Social Media;Notebook Set;Office;1;12.май;04.янв;15;0;12.май;янв.88;окт.62;июн.53
+O00742;07.08.2025;C0312;Shymkent;Social Media;Yoga Mat;Sports;2;26.сен;09.июл;5;апр.99;53.8;фев.69;56.1;36.7
+O01122;07.08.2025;C0231;Karaganda;Email;Water Bottle;Sports;1;15.сен;04.авг;5;апр.99;15.сен;0.8;20.сен;15.29
+O00379;08.08.2025;C0336;Almaty;Organic;Coffee Mug;Home;2;11.сен;03.сен;10;фев.99;23.авг;фев.38;24.41;16.61
+O00173;09.08.2025;C0090;Astana;Email;Notebook Set;Office;1;12.май;04.янв;0;июн.99;12.май;0.0;19.49;15.39
+O00326;10.08.2025;C0096;Atyrau;Referral;Yoga Mat;Sports;2;26.сен;09.июл;0;июн.99;53.8;0.0;60.79;41.39
+O00780;11.08.2025;C0177;Almaty;Referral;Notebook Set;Office;2;12.май;04.янв;15;апр.99;25.0;мар.75;26.24;18.апр
+O00945;11.08.2025;C0211;Shymkent;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;10;апр.99;09.сен;0.99;13.сен;10.июл
+O00996;11.08.2025;C0323;Karaganda;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;10;фев.99;239.7;23.97;218.72;104.72
+O01004;11.08.2025;C0274;Almaty;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;5;0;159.8;июл.99;151.81;75.81
+O00053;12.08.2025;C0311;Aktobe;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00201;12.08.2025;C0047;Astana;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;0;фев.99;239.7;0.0;242.69;128.69
+O01008;12.08.2025;C0321;Aktobe;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;5;фев.99;24.сен;янв.25;26.64;16.14
+O00113;13.08.2025;C0249;Almaty;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;5;апр.99;24.сен;янв.25;28.64;18.14
+O00187;13.08.2025;C0269;Aktobe;Referral;Resistance Bands;Sports;2;18.сен;06.фев;0;июн.99;37.8;0.0;44.79;32.39
+O00196;13.08.2025;C0023;Karaganda;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00349;13.08.2025;C0232;Shymkent;Organic;Laptop Stand;Office;2;34.9;14.0;0;0;69.8;0.0;69.8;41.8
+O01131;13.08.2025;C0231;Aktobe;Organic;Coffee Mug;Home;3;11.сен;03.сен;10;фев.99;35.7;мар.57;35.12;23.42
+O01152;13.08.2025;C0072;Karaganda;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00136;14.08.2025;C0018;Aktobe;Social Media;Mechanical Keyboard;Electronics;4;79.9;38.0;5;апр.99;319.6;15.98;308.61;156.61
+O00182;14.08.2025;C0035;Karaganda;Email;Desk Lamp;Home;3;29.сен;11.авг;5;фев.99;89.7;апр.48;88.2;52.8
+O00384;14.08.2025;C0180;Atyrau;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;5;фев.99;37.8;янв.89;38.9;26.май
+O00515;14.08.2025;C0024;Almaty;Social Media;Yoga Mat;Sports;4;26.сен;09.июл;0;июн.99;107.6;0.0;114.59;75.79
+O00059;15.08.2025;C0346;Astana;Referral;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O00065;15.08.2025;C0314;Atyrau;Referral;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00265;15.08.2025;C0336;Shymkent;Email;Wireless Mouse;Electronics;1;24.сен;10.май;10;апр.99;24.сен;фев.49;27.апр;16.сен
+O00885;15.08.2025;C0148;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;15;июн.99;79.9;ноя.98;74.91;36.91
+O01155;15.08.2025;C0025;Atyrau;Referral;Desk Lamp;Home;1;29.сен;11.авг;10;фев.99;29.сен;фев.99;29.сен;18.янв
+O01121;16.08.2025;C0266;Shymkent;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;10;апр.99;18.сен;янв.89;22.0;15.авг
+O00294;17.08.2025;C0307;Atyrau;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00346;17.08.2025;C0192;Karaganda;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;5;фев.99;79.9;4.0;78.89;40.89
+O00521;17.08.2025;C0162;Almaty;Email;Yoga Mat;Sports;3;26.сен;09.июл;0;июн.99;80.7;0.0;87.69;58.59
+O00577;17.08.2025;C0082;Astana;Referral;Water Bottle;Sports;2;15.сен;04.авг;10;фев.99;31.авг;мар.18;31.61;22.янв
+O01035;17.08.2025;C0330;Astana;Referral;Resistance Bands;Sports;2;18.сен;06.фев;0;июн.99;37.8;0.0;44.79;32.39
+O00185;19.08.2025;C0293;Atyrau;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;0;31.авг;0.0;31.авг;22.фев
+O00186;19.08.2025;C0053;Shymkent;Organic;Desk Lamp;Home;2;29.сен;11.авг;5;0;59.8;фев.99;56.81;33.21
+O00302;19.08.2025;C0190;Almaty;Referral;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00528;19.08.2025;C0235;Atyrau;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O01193;19.08.2025;C0291;Astana;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O00532;20.08.2025;C0069;Astana;Email;Notebook Set;Office;1;12.май;04.янв;0;апр.99;12.май;0.0;17.49;13.39
+O00539;20.08.2025;C0053;Aktobe;Referral;Notebook Set;Office;1;12.май;04.янв;5;апр.99;12.май;0.62;16.87;дек.77
+O00865;20.08.2025;C0318;Shymkent;Organic;Resistance Bands;Sports;2;18.сен;06.фев;0;апр.99;37.8;0.0;42.79;30.39
+O00148;21.08.2025;C0047;Atyrau;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00159;21.08.2025;C0205;Karaganda;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00272;21.08.2025;C0329;Aktobe;Referral;Water Bottle;Sports;1;15.сен;04.авг;20;апр.99;15.сен;мар.18;17.71;дек.91
+O00372;21.08.2025;C0250;Shymkent;Referral;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00591;21.08.2025;C0306;Aktobe;Organic;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00727;21.08.2025;C0047;Shymkent;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;5;фев.99;24.сен;янв.25;26.64;16.14
+O00857;21.08.2025;C0238;Astana;Email;USB-C Cable;Electronics;2;09.сен;03.фев;15;0;19.авг;фев.97;16.83;окт.43
+O00970;21.08.2025;C0345;Karaganda;Organic;Water Bottle;Sports;1;15.сен;04.авг;10;июн.99;15.сен;янв.59;21.мар;16.май
+O00989;21.08.2025;C0322;Shymkent;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O01043;21.08.2025;C0051;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O01097;21.08.2025;C0265;Shymkent;Referral;Water Bottle;Sports;1;15.сен;04.авг;5;0;15.сен;0.8;15.ноя;10.мар
+O01138;21.08.2025;C0030;Shymkent;Referral;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00285;22.08.2025;C0289;Almaty;Referral;Yoga Mat;Sports;3;26.сен;09.июл;0;июн.99;80.7;0.0;87.69;58.59
+O00829;22.08.2025;C0313;Astana;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;15;0;19.авг;фев.97;16.83;окт.43
+O00373;23.08.2025;C0326;Atyrau;Social Media;Wireless Mouse;Electronics;3;24.сен;10.май;15;0;74.7;11.фев;63.49;31.99
+O00614;23.08.2025;C0349;Karaganda;Referral;Coffee Mug;Home;2;11.сен;03.сен;10;апр.99;23.авг;фев.38;26.41;18.61
+O00624;23.08.2025;C0062;Atyrau;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;0;фев.99;49.8;0.0;52.79;31.79
+O00292;24.08.2025;C0178;Astana;Social Media;Coffee Mug;Home;2;11.сен;03.сен;10;фев.99;23.авг;фев.38;24.41;16.61
+O00311;24.08.2025;C0087;Atyrau;Social Media;Notebook Set;Office;3;12.май;04.янв;0;июн.99;37.5;0.0;44.49;32.19
+O01005;24.08.2025;C0208;Atyrau;Referral;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00115;25.08.2025;C0061;Atyrau;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;15;0;79.9;ноя.98;67.92;29.92
+O00198;25.08.2025;C0145;Karaganda;Referral;Yoga Mat;Sports;4;26.сен;09.июл;0;июн.99;107.6;0.0;114.59;75.79
+O00418;25.08.2025;C0053;Astana;Organic;Yoga Mat;Sports;2;26.сен;09.июл;5;0;53.8;фев.69;51.11;31.71
+O00571;25.08.2025;C0229;Shymkent;Social Media;Desk Lamp;Home;1;29.сен;11.авг;10;июн.99;29.сен;фев.99;33.9;22.янв
+O00291;26.08.2025;C0345;Atyrau;Referral;Laptop Stand;Office;3;34.9;14.0;10;апр.99;104.7;окт.47;99.22;57.22
+O00725;26.08.2025;C0331;Karaganda;Organic;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O00078;27.08.2025;C0132;Shymkent;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;5;фев.99;53.8;фев.69;54.1;34.7
+O00084;27.08.2025;C0224;Atyrau;Referral;Resistance Bands;Sports;5;18.сен;06.фев;0;июн.99;94.5;0.0;101.49;70.49
+O00307;27.08.2025;C0051;Atyrau;Email;Notebook Set;Office;1;12.май;04.янв;5;июн.99;12.май;0.62;18.87;14.77
+O00477;27.08.2025;C0155;Atyrau;Referral;Coffee Mug;Home;3;11.сен;03.сен;0;фев.99;35.7;0.0;38.69;26.99
+O00767;27.08.2025;C0291;Astana;Organic;Laptop Stand;Office;2;34.9;14.0;5;0;69.8;мар.49;66.31;38.31
+O00912;27.08.2025;C0057;Aktobe;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;20;0;11.сен;фев.38;сен.52;май.62
+O00768;29.08.2025;C0119;Astana;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00905;29.08.2025;C0061;Shymkent;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O01116;29.08.2025;C0340;Aktobe;Organic;Water Bottle;Sports;3;15.сен;04.авг;0;0;47.7;0.0;47.7;33.3
+O00428;30.08.2025;C0272;Shymkent;Referral;Wireless Mouse;Electronics;4;24.сен;10.май;10;0;99.6;сен.96;89.64;47.64
+O00961;30.08.2025;C0212;Shymkent;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;июн.99;24.сен;0.0;31.89;21.39
+O00976;30.08.2025;C0182;Aktobe;Referral;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O01010;30.08.2025;C0011;Karaganda;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O01018;30.08.2025;C0083;Aktobe;Paid Search;Coffee Mug;Home;3;11.сен;03.сен;5;апр.99;35.7;янв.78;38.91;27.21
+O01128;30.08.2025;C0335;Aktobe;Paid Search;Coffee Mug;Home;4;11.сен;03.сен;10;0;47.6;апр.76;42.84;27.24
+O00475;31.08.2025;C0068;Atyrau;Paid Search;Notebook Set;Office;2;12.май;04.янв;5;0;25.0;янв.25;23.75;15.55
+O00629;31.08.2025;C0005;Astana;Email;Coffee Mug;Home;3;11.сен;03.сен;0;фев.99;35.7;0.0;38.69;26.99
+O00658;31.08.2025;C0200;Atyrau;Social Media;Laptop Stand;Office;1;34.9;14.0;10;фев.99;34.9;мар.49;34.4;20.апр
+O00868;31.08.2025;C0178;Karaganda;Email;Wireless Mouse;Electronics;1;24.сен;10.май;20;фев.99;24.сен;апр.98;22.91;дек.41
+O01129;31.08.2025;C0120;Aktobe;Referral;Coffee Mug;Home;1;11.сен;03.сен;10;фев.99;11.сен;янв.19;13.июл;09.авг
+O00066;01.09.2025;C0231;Shymkent;Paid Search;Coffee Mug;Home;3;11.сен;03.сен;5;фев.99;35.7;янв.78;36.91;25.21
+O00802;01.09.2025;C0273;Astana;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;апр.99;24.сен;0.0;29.89;19.39
+O01044;01.09.2025;C0110;Karaganda;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00276;02.09.2025;C0166;Astana;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;фев.99;23.авг;0.0;26.79;18.99
+O00280;02.09.2025;C0079;Karaganda;Referral;Desk Lamp;Home;2;29.сен;11.авг;0;фев.99;59.8;0.0;62.79;39.19
+O00647;02.09.2025;C0154;Almaty;Email;Yoga Mat;Sports;2;26.сен;09.июл;10;июн.99;53.8;май.38;55.41;36.01
+O00998;02.09.2025;C0154;Astana;Paid Search;Resistance Bands;Sports;1;18.сен;06.фев;0;0;18.сен;0.0;18.сен;12.июл
+O00095;03.09.2025;C0226;Shymkent;Paid Search;Mechanical Keyboard;Electronics;3;79.9;38.0;5;июн.99;239.7;ноя.98;234.71;120.71
+O00155;03.09.2025;C0206;Karaganda;Organic;Notebook Set;Office;1;12.май;04.янв;20;0;12.май;02.май;10.0;05.сен
+O00337;03.09.2025;C0161;Astana;Email;USB-C Cable;Electronics;1;09.сен;03.фев;5;фев.99;09.сен;0.49;12.апр;09.фев
+O00426;03.09.2025;C0279;Karaganda;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;20;апр.99;56.7;ноя.34;50.35;31.75
+O00517;04.09.2025;C0178;Atyrau;Email;Water Bottle;Sports;1;15.сен;04.авг;5;фев.99;15.сен;0.8;18.сен;13.29
+O00621;04.09.2025;C0191;Aktobe;Social Media;Water Bottle;Sports;1;15.сен;04.авг;15;0;15.сен;фев.38;13.52;авг.71
+O00749;04.09.2025;C0080;Atyrau;Email;Yoga Mat;Sports;4;26.сен;09.июл;10;фев.99;107.6;окт.76;99.83;61.03
+O00773;04.09.2025;C0197;Almaty;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O01070;04.09.2025;C0140;Aktobe;Social Media;Notebook Set;Office;2;12.май;04.янв;0;0;25.0;0.0;25.0;16.авг
+O00132;05.09.2025;C0055;Astana;Email;Yoga Mat;Sports;3;26.сен;09.июл;0;июн.99;80.7;0.0;87.69;58.59
+O00241;05.09.2025;C0238;Astana;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;0;июн.99;159.8;0.0;166.79;90.79
+O00347;05.09.2025;C0054;Shymkent;Email;Water Bottle;Sports;2;15.сен;04.авг;0;0;31.авг;0.0;31.авг;22.фев
+O00672;06.09.2025;C0099;Almaty;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O00799;06.09.2025;C0093;Aktobe;Organic;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00870;06.09.2025;C0304;Atyrau;Referral;Water Bottle;Sports;1;15.сен;04.авг;5;апр.99;15.сен;0.8;20.сен;15.29
+O01196;06.09.2025;C0345;Almaty;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;5;июн.99;79.9;4.0;82.89;44.89
+O01198;06.09.2025;C0243;Shymkent;Referral;Coffee Mug;Home;2;11.сен;03.сен;20;апр.99;23.авг;апр.76;24.мар;16.23
+O00583;07.09.2025;C0247;Aktobe;Organic;Resistance Bands;Sports;1;18.сен;06.фев;10;апр.99;18.сен;янв.89;22.0;15.авг
+O00630;07.09.2025;C0154;Shymkent;Referral;Yoga Mat;Sports;1;26.сен;09.июл;15;апр.99;26.сен;04.апр;27.85;18.15
+O00927;07.09.2025;C0057;Aktobe;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00088;08.09.2025;C0285;Astana;Email;Resistance Bands;Sports;4;18.сен;06.фев;0;июн.99;75.6;0.0;82.59;57.79
+O00519;09.09.2025;C0165;Astana;Social Media;Yoga Mat;Sports;3;26.сен;09.июл;15;0;80.7;12.янв;68.59;39.5
+O00622;09.09.2025;C0094;Aktobe;Social Media;Yoga Mat;Sports;4;26.сен;09.июл;15;апр.99;107.6;16.14;96.45;57.65
+O01060;09.09.2025;C0012;Shymkent;Email;Resistance Bands;Sports;2;18.сен;06.фев;0;0;37.8;0.0;37.8;25.апр
+O01191;09.09.2025;C0001;Almaty;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;фев.99;23.авг;0.0;26.79;18.99
+O00432;10.09.2025;C0278;Shymkent;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;5;фев.99;31.авг;янв.59;33.2;23.июн
+O01065;10.09.2025;C0261;Aktobe;Email;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O00086;11.09.2025;C0167;Astana;Email;Water Bottle;Sports;2;15.сен;04.авг;0;0;31.авг;0.0;31.авг;22.фев
+O00247;11.09.2025;C0306;Atyrau;Email;Laptop Stand;Office;2;34.9;14.0;0;апр.99;69.8;0.0;74.79;46.79
+O00800;11.09.2025;C0212;Karaganda;Paid Search;Desk Lamp;Home;5;29.сен;11.авг;20;фев.99;149.5;29.сен;122.59;63.59
+O01118;11.09.2025;C0243;Shymkent;Referral;Desk Lamp;Home;2;29.сен;11.авг;5;июн.99;59.8;фев.99;63.8;40.2
+O00422;12.09.2025;C0016;Karaganda;Email;USB-C Cable;Electronics;4;09.сен;03.фев;0;июн.99;39.6;0.0;46.59;33.79
+O00841;12.09.2025;C0091;Astana;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;20;июн.99;19.авг;мар.96;22.83;16.43
+O00867;12.09.2025;C0078;Astana;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00952;12.09.2025;C0047;Astana;Referral;Resistance Bands;Sports;4;18.сен;06.фев;5;апр.99;75.6;мар.78;76.81;52.01
+O00424;13.09.2025;C0211;Aktobe;Email;Water Bottle;Sports;2;15.сен;04.авг;0;апр.99;31.авг;0.0;36.79;27.19
+O00825;13.09.2025;C0274;Karaganda;Organic;Coffee Mug;Home;1;11.сен;03.сен;5;апр.99;11.сен;0.59;16.мар;12.апр
+O00980;13.09.2025;C0144;Atyrau;Social Media;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O01117;13.09.2025;C0266;Karaganda;Paid Search;USB-C Cable;Electronics;2;09.сен;03.фев;10;апр.99;19.авг;янв.98;22.81;16.41
+O00017;14.09.2025;C0092;Aktobe;Organic;Coffee Mug;Home;1;11.сен;03.сен;0;апр.99;11.сен;0.0;16.89;дек.99
+O00324;14.09.2025;C0178;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;10;0;29.сен;фев.99;26.91;15.ноя
+O01181;14.09.2025;C0192;Karaganda;Email;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00202;15.09.2025;C0192;Astana;Email;Desk Lamp;Home;4;29.сен;11.авг;0;июн.99;119.6;0.0;126.59;79.39
+O01058;15.09.2025;C0010;Almaty;Referral;Wireless Mouse;Electronics;4;24.сен;10.май;5;июн.99;99.6;апр.98;101.61;59.61
+O00908;16.09.2025;C0292;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;5;фев.99;29.сен;01.май;31.39;19.59
+O01177;16.09.2025;C0313;Atyrau;Email;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00056;17.09.2025;C0159;Atyrau;Email;Water Bottle;Sports;1;15.сен;04.авг;15;апр.99;15.сен;фев.38;18.51;13.71
+O00183;17.09.2025;C0038;Shymkent;Email;Notebook Set;Office;3;12.май;04.янв;5;апр.99;37.5;янв.88;40.62;28.32
+O00392;17.09.2025;C0147;Atyrau;Referral;Laptop Stand;Office;1;34.9;14.0;0;июн.99;34.9;0.0;41.89;27.89
+O00612;17.09.2025;C0055;Aktobe;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;июн.99;23.авг;0.0;30.79;22.99
+O01149;17.09.2025;C0023;Karaganda;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00771;18.09.2025;C0053;Karaganda;Organic;Notebook Set;Office;3;12.май;04.янв;5;фев.99;37.5;янв.88;38.62;26.32
+O01184;18.09.2025;C0251;Atyrau;Social Media;Coffee Mug;Home;4;11.сен;03.сен;10;апр.99;47.6;апр.76;47.83;32.23
+O00540;19.09.2025;C0148;Atyrau;Organic;Laptop Stand;Office;2;34.9;14.0;5;фев.99;69.8;мар.49;69.3;41.3
+O00025;21.09.2025;C0122;Shymkent;Email;Mechanical Keyboard;Electronics;4;79.9;38.0;15;0;319.6;47.94;271.66;119.66
+O00111;21.09.2025;C0001;Atyrau;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O00582;22.09.2025;C0129;Karaganda;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;0;0;23.авг;0.0;23.авг;16.0
+O00588;22.09.2025;C0208;Aktobe;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00757;22.09.2025;C0347;Astana;Paid Search;Notebook Set;Office;3;12.май;04.янв;0;0;37.5;0.0;37.5;25.фев
+O00981;22.09.2025;C0161;Karaganda;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;15;апр.99;11.сен;янв.78;15.ноя;ноя.21
+O00380;23.09.2025;C0349;Karaganda;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00683;23.09.2025;C0070;Shymkent;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;20;0;49.8;сен.96;39.84;18.84
+O00898;23.09.2025;C0145;Shymkent;Email;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O01188;23.09.2025;C0097;Karaganda;Paid Search;Coffee Mug;Home;2;11.сен;03.сен;20;0;23.авг;апр.76;19.апр;ноя.24
+O00722;24.09.2025;C0056;Karaganda;Email;Water Bottle;Sports;2;15.сен;04.авг;5;0;31.авг;янв.59;30.21;20.61
+O00759;24.09.2025;C0338;Atyrau;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;15;0;79.9;ноя.98;67.92;29.92
+O00869;24.09.2025;C0331;Shymkent;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O01037;24.09.2025;C0277;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O01170;24.09.2025;C0213;Atyrau;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;5;0;09.сен;0.49;сен.41;июн.21
+O00098;25.09.2025;C0195;Karaganda;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O00646;25.09.2025;C0070;Shymkent;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00671;25.09.2025;C0338;Almaty;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00944;25.09.2025;C0103;Shymkent;Email;Coffee Mug;Home;4;11.сен;03.сен;10;0;47.6;апр.76;42.84;27.24
+O01084;25.09.2025;C0141;Astana;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;5;фев.99;09.сен;0.49;12.апр;09.фев
+O00209;26.09.2025;C0185;Almaty;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00299;26.09.2025;C0164;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00644;26.09.2025;C0328;Atyrau;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O00171;27.09.2025;C0342;Shymkent;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00623;27.09.2025;C0217;Karaganda;Referral;Coffee Mug;Home;1;11.сен;03.сен;5;0;11.сен;0.59;11.мар;07.апр
+O00673;27.09.2025;C0320;Atyrau;Referral;Water Bottle;Sports;2;15.сен;04.авг;0;июн.99;31.авг;0.0;38.79;29.19
+O01143;27.09.2025;C0169;Aktobe;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;5;фев.99;239.7;ноя.98;230.71;116.71
+O00015;28.09.2025;C0129;Aktobe;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;июн.99;23.авг;0.0;30.79;22.99
+O00282;28.09.2025;C0186;Almaty;Referral;Water Bottle;Sports;3;15.сен;04.авг;0;июн.99;47.7;0.0;54.69;40.29
+O00389;28.09.2025;C0007;Shymkent;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00706;29.09.2025;C0157;Shymkent;Email;Resistance Bands;Sports;4;18.сен;06.фев;0;фев.99;75.6;0.0;78.59;53.79
+O00593;30.09.2025;C0258;Almaty;Organic;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O00772;30.09.2025;C0237;Karaganda;Referral;Desk Lamp;Home;2;29.сен;11.авг;0;апр.99;59.8;0.0;64.79;41.19
+O00558;01.10.2025;C0004;Atyrau;Referral;Coffee Mug;Home;1;11.сен;03.сен;0;0;11.сен;0.0;11.сен;8.0
+O00140;02.10.2025;C0064;Karaganda;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00394;02.10.2025;C0168;Karaganda;Referral;Resistance Bands;Sports;4;18.сен;06.фев;20;фев.99;75.6;15.дек;63.47;38.67
+O00071;03.10.2025;C0280;Aktobe;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O00144;03.10.2025;C0070;Karaganda;Email;Notebook Set;Office;5;12.май;04.янв;0;фев.99;62.5;0.0;65.49;44.99
+O00281;03.10.2025;C0341;Astana;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;5;июн.99;29.сен;01.май;35.39;23.59
+O00290;03.10.2025;C0202;Aktobe;Paid Search;USB-C Cable;Electronics;2;09.сен;03.фев;0;фев.99;19.авг;0.0;22.79;16.39
+O00563;03.10.2025;C0281;Almaty;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;5;июн.99;79.9;4.0;82.89;44.89
+O00613;03.10.2025;C0295;Shymkent;Email;Resistance Bands;Sports;1;18.сен;06.фев;20;апр.99;18.сен;мар.78;20.ноя;13.91
+O00700;03.10.2025;C0109;Astana;Referral;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O01077;03.10.2025;C0016;Atyrau;Email;Coffee Mug;Home;2;11.сен;03.сен;10;0;23.авг;фев.38;21.42;13.62
+O00151;04.10.2025;C0129;Astana;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;20;фев.99;24.сен;апр.98;22.91;дек.41
+O00295;04.10.2025;C0112;Almaty;Paid Search;Laptop Stand;Office;2;34.9;14.0;0;фев.99;69.8;0.0;72.79;44.79
+O00815;04.10.2025;C0221;Astana;Referral;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00819;04.10.2025;C0116;Almaty;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O01055;04.10.2025;C0024;Atyrau;Email;Coffee Mug;Home;1;11.сен;03.сен;15;апр.99;11.сен;янв.78;15.ноя;ноя.21
+O00287;05.10.2025;C0031;Almaty;Email;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00312;05.10.2025;C0329;Almaty;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;5;фев.99;09.сен;0.49;12.апр;09.фев
+O00364;05.10.2025;C0022;Atyrau;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00924;05.10.2025;C0176;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;0;апр.99;34.9;0.0;39.89;25.89
+O00343;06.10.2025;C0019;Shymkent;Referral;Yoga Mat;Sports;2;26.сен;09.июл;5;июн.99;53.8;фев.69;58.1;38.7
+O00045;07.10.2025;C0019;Shymkent;Referral;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O00261;07.10.2025;C0182;Atyrau;Social Media;Desk Lamp;Home;4;29.сен;11.авг;0;апр.99;119.6;0.0;124.59;77.39
+O00407;07.10.2025;C0126;Astana;Organic;Water Bottle;Sports;5;15.сен;04.авг;20;фев.99;79.5;15.сен;66.59;42.59
+O00561;07.10.2025;C0152;Atyrau;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;июн.99;26.сен;0.0;33.89;24.19
+O00643;08.10.2025;C0228;Astana;Referral;Desk Lamp;Home;3;29.сен;11.авг;0;апр.99;89.7;0.0;94.69;59.29
+O00693;08.10.2025;C0205;Shymkent;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O00807;08.10.2025;C0006;Atyrau;Organic;Desk Lamp;Home;2;29.сен;11.авг;20;апр.99;59.8;ноя.96;52.83;29.23
+O00110;09.10.2025;C0019;Karaganda;Organic;Coffee Mug;Home;2;11.сен;03.сен;0;июн.99;23.авг;0.0;30.79;22.99
+O00310;09.10.2025;C0336;Atyrau;Social Media;Laptop Stand;Office;1;34.9;14.0;15;июн.99;34.9;май.24;36.66;22.66
+O00363;09.10.2025;C0262;Almaty;Referral;Resistance Bands;Sports;1;18.сен;06.фев;10;июн.99;18.сен;янв.89;24.0;17.авг
+O00603;09.10.2025;C0315;Atyrau;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00114;10.10.2025;C0008;Aktobe;Email;Water Bottle;Sports;3;15.сен;04.авг;10;апр.99;47.7;апр.77;47.92;33.52
+O00119;10.10.2025;C0279;Karaganda;Email;USB-C Cable;Electronics;1;09.сен;03.фев;0;апр.99;09.сен;0.0;14.89;ноя.69
+O00541;10.10.2025;C0028;Almaty;Social Media;Coffee Mug;Home;1;11.сен;03.сен;20;апр.99;11.сен;фев.38;14.51;окт.61
+O00670;10.10.2025;C0079;Aktobe;Social Media;Resistance Bands;Sports;3;18.сен;06.фев;0;июн.99;56.7;0.0;63.69;45.09
+O00529;11.10.2025;C0222;Aktobe;Email;Resistance Bands;Sports;1;18.сен;06.фев;0;0;18.сен;0.0;18.сен;12.июл
+O00359;12.10.2025;C0086;Karaganda;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00982;12.10.2025;C0337;Atyrau;Email;Desk Lamp;Home;2;29.сен;11.авг;0;фев.99;59.8;0.0;62.79;39.19
+O00251;13.10.2025;C0188;Astana;Paid Search;USB-C Cable;Electronics;5;09.сен;03.фев;0;апр.99;49.5;0.0;54.49;38.49
+O00262;13.10.2025;C0153;Astana;Social Media;Water Bottle;Sports;2;15.сен;04.авг;20;апр.99;31.авг;июн.36;30.43;20.83
+O00301;13.10.2025;C0272;Astana;Email;Yoga Mat;Sports;4;26.сен;09.июл;5;июн.99;107.6;май.38;109.21;70.41
+O00675;13.10.2025;C0213;Shymkent;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00926;13.10.2025;C0338;Shymkent;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00351;14.10.2025;C0219;Karaganda;Paid Search;Laptop Stand;Office;2;34.9;14.0;5;апр.99;69.8;мар.49;71.3;43.3
+O00485;14.10.2025;C0094;Atyrau;Social Media;Notebook Set;Office;1;12.май;04.янв;0;апр.99;12.май;0.0;17.49;13.39
+O00478;15.10.2025;C0332;Aktobe;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;апр.99;15.сен;0.0;20.89;16.сен
+O00862;15.10.2025;C0105;Astana;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00928;15.10.2025;C0081;Aktobe;Organic;Resistance Bands;Sports;2;18.сен;06.фев;5;июн.99;37.8;янв.89;42.9;30.май
+O01025;15.10.2025;C0022;Aktobe;Organic;Mechanical Keyboard;Electronics;5;79.9;38.0;10;0;399.5;39.95;359.55;169.55
+O00097;16.10.2025;C0156;Almaty;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00339;16.10.2025;C0103;Aktobe;Referral;Notebook Set;Office;3;12.май;04.янв;0;0;37.5;0.0;37.5;25.фев
+O00795;16.10.2025;C0134;Almaty;Email;USB-C Cable;Electronics;1;09.сен;03.фев;15;апр.99;09.сен;янв.49;13.41;окт.21
+O00986;16.10.2025;C0340;Aktobe;Paid Search;Notebook Set;Office;1;12.май;04.янв;0;апр.99;12.май;0.0;17.49;13.39
+O00081;17.10.2025;C0022;Shymkent;Referral;Laptop Stand;Office;1;34.9;14.0;10;0;34.9;мар.49;31.41;17.41
+O00320;17.10.2025;C0049;Aktobe;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00569;17.10.2025;C0291;Shymkent;Social Media;Water Bottle;Sports;2;15.сен;04.авг;10;фев.99;31.авг;мар.18;31.61;22.янв
+O00878;17.10.2025;C0227;Shymkent;Organic;Notebook Set;Office;1;12.май;04.янв;0;фев.99;12.май;0.0;15.49;ноя.39
+O01052;17.10.2025;C0232;Shymkent;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;0;апр.99;239.7;0.0;244.69;130.69
+O00323;18.10.2025;C0200;Atyrau;Referral;Coffee Mug;Home;4;11.сен;03.сен;0;фев.99;47.6;0.0;50.59;34.99
+O00439;18.10.2025;C0017;Astana;Referral;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00774;18.10.2025;C0176;Aktobe;Paid Search;Laptop Stand;Office;3;34.9;14.0;5;июн.99;104.7;май.24;106.45;64.45
+O00790;18.10.2025;C0248;Atyrau;Social Media;Resistance Bands;Sports;2;18.сен;06.фев;0;0;37.8;0.0;37.8;25.апр
+O00934;18.10.2025;C0264;Karaganda;Social Media;Resistance Bands;Sports;1;18.сен;06.фев;0;июн.99;18.сен;0.0;25.89;19.69
+O00099;19.10.2025;C0318;Almaty;Referral;Notebook Set;Office;3;12.май;04.янв;20;апр.99;37.5;07.май;34.99;22.69
+O00999;19.10.2025;C0025;Aktobe;Organic;Notebook Set;Office;3;12.май;04.янв;5;апр.99;37.5;янв.88;40.62;28.32
+O00120;20.10.2025;C0197;Astana;Email;Desk Lamp;Home;3;29.сен;11.авг;20;фев.99;89.7;17.94;74.75;39.35
+O00332;20.10.2025;C0267;Astana;Email;Coffee Mug;Home;3;11.сен;03.сен;10;фев.99;35.7;мар.57;35.12;23.42
+O00741;20.10.2025;C0323;Aktobe;Organic;Laptop Stand;Office;2;34.9;14.0;5;0;69.8;мар.49;66.31;38.31
+O00752;20.10.2025;C0311;Karaganda;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O01056;20.10.2025;C0323;Atyrau;Social Media;Notebook Set;Office;2;12.май;04.янв;15;0;25.0;мар.75;21.25;13.май
+O01120;20.10.2025;C0081;Shymkent;Social Media;Laptop Stand;Office;1;34.9;14.0;0;июн.99;34.9;0.0;41.89;27.89
+O00258;21.10.2025;C0057;Astana;Organic;Coffee Mug;Home;1;11.сен;03.сен;10;0;11.сен;янв.19;окт.71;июн.81
+O00283;21.10.2025;C0275;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;5;фев.99;79.9;4.0;78.89;40.89
+O00763;21.10.2025;C0126;Astana;Organic;Desk Lamp;Home;1;29.сен;11.авг;20;апр.99;29.сен;май.98;28.91;17.ноя
+O00853;21.10.2025;C0003;Karaganda;Organic;Laptop Stand;Office;1;34.9;14.0;5;фев.99;34.9;янв.75;36.15;22.15
+O00938;21.10.2025;C0206;Astana;Referral;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O00070;22.10.2025;C0195;Karaganda;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00175;22.10.2025;C0220;Aktobe;Email;Coffee Mug;Home;1;11.сен;03.сен;15;апр.99;11.сен;янв.78;15.ноя;ноя.21
+O00338;22.10.2025;C0125;Shymkent;Email;Desk Lamp;Home;1;29.сен;11.авг;10;июн.99;29.сен;фев.99;33.9;22.янв
+O00874;22.10.2025;C0065;Karaganda;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;0;апр.99;09.сен;0.0;14.89;ноя.69
+O01033;22.10.2025;C0030;Atyrau;Referral;Coffee Mug;Home;3;11.сен;03.сен;5;фев.99;35.7;янв.78;36.91;25.21
+O00296;23.10.2025;C0307;Atyrau;Social Media;Resistance Bands;Sports;5;18.сен;06.фев;0;апр.99;94.5;0.0;99.49;68.49
+O00444;23.10.2025;C0334;Atyrau;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00633;23.10.2025;C0295;Atyrau;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00033;24.10.2025;C0278;Almaty;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;0;0;09.сен;0.0;09.сен;06.июл
+O00581;24.10.2025;C0279;Aktobe;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;0;апр.99;37.8;0.0;42.79;30.39
+O00738;24.10.2025;C0185;Almaty;Organic;Water Bottle;Sports;3;15.сен;04.авг;0;июн.99;47.7;0.0;54.69;40.29
+O00827;24.10.2025;C0120;Almaty;Organic;Yoga Mat;Sports;4;26.сен;09.июл;15;фев.99;107.6;16.14;94.45;55.65
+O00013;26.10.2025;C0205;Shymkent;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;10;июн.99;37.8;мар.78;41.01;28.61
+O00284;26.10.2025;C0251;Almaty;Referral;Desk Lamp;Home;3;29.сен;11.авг;0;фев.99;89.7;0.0;92.69;57.29
+O00889;27.10.2025;C0156;Karaganda;Referral;Resistance Bands;Sports;2;18.сен;06.фев;10;апр.99;37.8;мар.78;39.01;26.61
+O01071;27.10.2025;C0262;Shymkent;Organic;Coffee Mug;Home;5;11.сен;03.сен;15;фев.99;59.5;авг.93;53.57;34.07
+O00118;28.10.2025;C0297;Atyrau;Email;Resistance Bands;Sports;1;18.сен;06.фев;0;апр.99;18.сен;0.0;23.89;17.69
+O00145;28.10.2025;C0080;Karaganda;Organic;Desk Lamp;Home;2;29.сен;11.авг;10;июн.99;59.8;май.98;60.81;37.21
+O00391;28.10.2025;C0035;Almaty;Social Media;Yoga Mat;Sports;4;26.сен;09.июл;10;0;107.6;окт.76;96.84;58.04
+O01189;28.10.2025;C0158;Atyrau;Email;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00092;29.10.2025;C0269;Aktobe;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;10;апр.99;09.сен;0.99;13.сен;10.июл
+O00152;29.10.2025;C0166;Almaty;Paid Search;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00177;29.10.2025;C0206;Aktobe;Organic;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O00431;30.10.2025;C0015;Atyrau;Social Media;Water Bottle;Sports;1;15.сен;04.авг;10;апр.99;15.сен;янв.59;19.мар;14.май
+O00586;30.10.2025;C0083;Atyrau;Email;Mechanical Keyboard;Electronics;2;79.9;38.0;0;фев.99;159.8;0.0;162.79;86.79
+O00254;31.10.2025;C0173;Aktobe;Referral;Coffee Mug;Home;5;11.сен;03.сен;10;апр.99;59.5;май.95;58.54;39.04
+O00844;31.10.2025;C0297;Shymkent;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;июн.99;79.9;0.0;86.89;48.89
+O01090;31.10.2025;C0321;Shymkent;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O01098;31.10.2025;C0100;Aktobe;Paid Search;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00500;01.11.2025;C0025;Atyrau;Organic;Coffee Mug;Home;3;11.сен;03.сен;0;0;35.7;0.0;35.7;24.0
+O00830;01.11.2025;C0316;Astana;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;0;июн.99;239.7;0.0;246.69;132.69
+O00965;01.11.2025;C0211;Shymkent;Email;USB-C Cable;Electronics;1;09.сен;03.фев;10;фев.99;09.сен;0.99;11.сен;08.июл
+O00087;02.11.2025;C0142;Aktobe;Organic;Laptop Stand;Office;1;34.9;14.0;0;апр.99;34.9;0.0;39.89;25.89
+O00256;02.11.2025;C0243;Shymkent;Referral;Coffee Mug;Home;2;11.сен;03.сен;10;0;23.авг;фев.38;21.42;13.62
+O00355;02.11.2025;C0199;Aktobe;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;15;апр.99;79.9;ноя.98;72.91;34.91
+O00368;02.11.2025;C0276;Astana;Social Media;Laptop Stand;Office;3;34.9;14.0;5;апр.99;104.7;май.24;104.45;62.45
+O00975;02.11.2025;C0132;Almaty;Organic;Coffee Mug;Home;2;11.сен;03.сен;10;июн.99;23.авг;фев.38;28.41;20.61
+O00106;03.11.2025;C0021;Karaganda;Social Media;Notebook Set;Office;2;12.май;04.янв;0;0;25.0;0.0;25.0;16.авг
+O00892;03.11.2025;C0186;Aktobe;Email;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O01156;03.11.2025;C0003;Almaty;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00590;04.11.2025;C0074;Aktobe;Paid Search;Yoga Mat;Sports;3;26.сен;09.июл;0;июн.99;80.7;0.0;87.69;58.59
+O00950;05.11.2025;C0153;Almaty;Email;Wireless Mouse;Electronics;1;24.сен;10.май;15;апр.99;24.сен;мар.73;26.16;15.66
+O00199;06.11.2025;C0071;Shymkent;Organic;Resistance Bands;Sports;1;18.сен;06.фев;0;фев.99;18.сен;0.0;21.89;15.69
+O00637;06.11.2025;C0331;Karaganda;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00798;06.11.2025;C0090;Aktobe;Paid Search;Notebook Set;Office;3;12.май;04.янв;0;0;37.5;0.0;37.5;25.фев
+O00850;06.11.2025;C0081;Atyrau;Referral;USB-C Cable;Electronics;3;09.сен;03.фев;0;апр.99;29.июл;0.0;34.69;25.сен
+O01141;06.11.2025;C0295;Shymkent;Referral;Coffee Mug;Home;3;11.сен;03.сен;5;фев.99;35.7;янв.78;36.91;25.21
+O01186;06.11.2025;C0234;Atyrau;Paid Search;Wireless Mouse;Electronics;2;24.сен;10.май;5;апр.99;49.8;фев.49;52.3;31.мар
+O00134;07.11.2025;C0255;Shymkent;Paid Search;Wireless Mouse;Electronics;2;24.сен;10.май;10;0;49.8;апр.98;44.82;23.82
+O00009;08.11.2025;C0326;Astana;Referral;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00165;08.11.2025;C0337;Atyrau;Social Media;Resistance Bands;Sports;5;18.сен;06.фев;10;0;94.5;сен.45;85.05;54.05
+O00605;08.11.2025;C0020;Atyrau;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00681;08.11.2025;C0124;Aktobe;Referral;Desk Lamp;Home;1;29.сен;11.авг;5;апр.99;29.сен;01.май;33.39;21.59
+O00880;08.11.2025;C0329;Astana;Referral;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O01172;08.11.2025;C0196;Aktobe;Social Media;Laptop Stand;Office;3;34.9;14.0;10;фев.99;104.7;окт.47;97.22;55.22
+O00062;09.11.2025;C0038;Karaganda;Email;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00142;09.11.2025;C0114;Atyrau;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;20;апр.99;49.8;сен.96;44.83;23.83
+O00737;09.11.2025;C0339;Atyrau;Referral;Coffee Mug;Home;5;11.сен;03.сен;0;апр.99;59.5;0.0;64.49;44.99
+O00837;09.11.2025;C0020;Aktobe;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O00847;09.11.2025;C0233;Astana;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;фев.99;26.сен;0.0;29.89;20.19
+O00040;10.11.2025;C0335;Aktobe;Organic;Desk Lamp;Home;1;29.сен;11.авг;0;апр.99;29.сен;0.0;34.89;23.сен
+O00231;10.11.2025;C0045;Almaty;Social Media;Resistance Bands;Sports;2;18.сен;06.фев;0;фев.99;37.8;0.0;40.79;28.39
+O00154;11.11.2025;C0023;Atyrau;Referral;Resistance Bands;Sports;2;18.сен;06.фев;0;фев.99;37.8;0.0;40.79;28.39
+O00492;11.11.2025;C0223;Atyrau;Email;Yoga Mat;Sports;3;26.сен;09.июл;10;фев.99;80.7;08.июл;75.62;46.52
+O00743;11.11.2025;C0289;Karaganda;Referral;Resistance Bands;Sports;2;18.сен;06.фев;5;фев.99;37.8;янв.89;38.9;26.май
+O00244;12.11.2025;C0215;Astana;Paid Search;USB-C Cable;Electronics;1;09.сен;03.фев;0;июн.99;09.сен;0.0;16.89;13.69
+O00766;12.11.2025;C0183;Shymkent;Social Media;Water Bottle;Sports;2;15.сен;04.авг;10;июн.99;31.авг;мар.18;35.61;26.янв
+O00929;12.11.2025;C0347;Shymkent;Social Media;Coffee Mug;Home;1;11.сен;03.сен;5;июн.99;11.сен;0.59;18.мар;14.апр
+O01114;12.11.2025;C0301;Astana;Referral;Coffee Mug;Home;5;11.сен;03.сен;0;0;59.5;0.0;59.5;40.0
+O00239;13.11.2025;C0328;Almaty;Email;Notebook Set;Office;2;12.май;04.янв;10;июн.99;25.0;02.май;29.49;21.29
+O00356;13.11.2025;C0089;Atyrau;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;июн.99;15.сен;0.0;22.89;18.сен
+O00839;13.11.2025;C0186;Aktobe;Referral;Laptop Stand;Office;1;34.9;14.0;20;0;34.9;июн.98;27.92;13.92
+O00047;14.11.2025;C0080;Astana;Paid Search;Laptop Stand;Office;2;34.9;14.0;0;июн.99;69.8;0.0;76.79;48.79
+O00135;14.11.2025;C0129;Atyrau;Paid Search;Water Bottle;Sports;3;15.сен;04.авг;0;фев.99;47.7;0.0;50.69;36.29
+O00669;14.11.2025;C0123;Shymkent;Organic;USB-C Cable;Electronics;3;09.сен;03.фев;5;апр.99;29.июл;янв.49;33.21;23.61
+O00860;14.11.2025;C0172;Atyrau;Organic;Resistance Bands;Sports;2;18.сен;06.фев;0;0;37.8;0.0;37.8;25.апр
+O00077;15.11.2025;C0079;Astana;Paid Search;Wireless Mouse;Electronics;4;24.сен;10.май;0;0;99.6;0.0;99.6;57.6
+O00112;15.11.2025;C0256;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00406;15.11.2025;C0125;Karaganda;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;апр.99;24.сен;0.0;29.89;19.39
+O00250;16.11.2025;C0349;Aktobe;Organic;Coffee Mug;Home;2;11.сен;03.сен;10;апр.99;23.авг;фев.38;26.41;18.61
+O00787;16.11.2025;C0093;Karaganda;Referral;Yoga Mat;Sports;4;26.сен;09.июл;10;июн.99;107.6;окт.76;103.83;65.03
+O00796;16.11.2025;C0014;Shymkent;Email;Water Bottle;Sports;1;15.сен;04.авг;0;апр.99;15.сен;0.0;20.89;16.сен
+O01160;16.11.2025;C0107;Aktobe;Email;Mechanical Keyboard;Electronics;3;79.9;38.0;0;фев.99;239.7;0.0;242.69;128.69
+O00298;17.11.2025;C0348;Karaganda;Referral;Resistance Bands;Sports;4;18.сен;06.фев;15;фев.99;75.6;ноя.34;67.25;42.45
+O00546;17.11.2025;C0316;Atyrau;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;0;24.сен;0.0;24.сен;14.апр
+O00554;17.11.2025;C0034;Astana;Paid Search;USB-C Cable;Electronics;5;09.сен;03.фев;10;0;49.5;апр.95;44.55;28.55
+O01092;17.11.2025;C0229;Aktobe;Organic;Mechanical Keyboard;Electronics;3;79.9;38.0;5;0;239.7;ноя.98;227.72;113.72
+O00896;18.11.2025;C0094;Almaty;Referral;Notebook Set;Office;2;12.май;04.янв;20;фев.99;25.0;5.0;22.99;14.79
+O00942;18.11.2025;C0265;Astana;Referral;Yoga Mat;Sports;2;26.сен;09.июл;5;0;53.8;фев.69;51.11;31.71
+O01147;18.11.2025;C0276;Shymkent;Organic;Wireless Mouse;Electronics;1;24.сен;10.май;15;апр.99;24.сен;мар.73;26.16;15.66
+O00823;19.11.2025;C0184;Karaganda;Organic;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O01115;19.11.2025;C0144;Astana;Referral;Notebook Set;Office;3;12.май;04.янв;0;0;37.5;0.0;37.5;25.фев
+O00960;20.11.2025;C0163;Atyrau;Email;Notebook Set;Office;1;12.май;04.янв;15;июн.99;12.май;янв.88;17.62;13.52
+O00126;21.11.2025;C0052;Karaganda;Paid Search;Laptop Stand;Office;2;34.9;14.0;0;0;69.8;0.0;69.8;41.8
+O00167;21.11.2025;C0016;Almaty;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;0;фев.99;19.авг;0.0;22.79;16.39
+O00615;21.11.2025;C0113;Atyrau;Paid Search;Wireless Mouse;Electronics;2;24.сен;10.май;0;июн.99;49.8;0.0;56.79;35.79
+O00008;22.11.2025;C0187;Astana;Social Media;Laptop Stand;Office;3;34.9;14.0;0;июн.99;104.7;0.0;111.69;69.69
+O00895;22.11.2025;C0183;Almaty;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O01038;22.11.2025;C0082;Almaty;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00267;23.11.2025;C0120;Almaty;Organic;Laptop Stand;Office;1;34.9;14.0;5;фев.99;34.9;янв.75;36.15;22.15
+O00131;24.11.2025;C0218;Atyrau;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00440;24.11.2025;C0290;Almaty;Email;Desk Lamp;Home;4;29.сен;11.авг;20;фев.99;119.6;23.92;98.67;51.47
+O01136;24.11.2025;C0156;Almaty;Paid Search;Coffee Mug;Home;1;11.сен;03.сен;0;июн.99;11.сен;0.0;18.89;14.99
+O00016;25.11.2025;C0175;Almaty;Social Media;Mechanical Keyboard;Electronics;2;79.9;38.0;5;апр.99;159.8;июл.99;156.8;80.8
+O00288;25.11.2025;C0331;Karaganda;Social Media;Wireless Mouse;Electronics;1;24.сен;10.май;0;фев.99;24.сен;0.0;27.89;17.39
+O00383;25.11.2025;C0347;Astana;Organic;USB-C Cable;Electronics;1;09.сен;03.фев;10;фев.99;09.сен;0.99;11.сен;08.июл
+O00963;25.11.2025;C0329;Astana;Email;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00919;26.11.2025;C0205;Shymkent;Email;Notebook Set;Office;3;12.май;04.янв;10;апр.99;37.5;мар.75;38.74;26.44
+O00949;26.11.2025;C0022;Atyrau;Email;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O00566;27.11.2025;C0282;Almaty;Social Media;Wireless Mouse;Electronics;3;24.сен;10.май;20;июн.99;74.7;14.94;66.75;35.25
+O00946;27.11.2025;C0083;Shymkent;Referral;Laptop Stand;Office;3;34.9;14.0;0;апр.99;104.7;0.0;109.69;67.69
+O00555;28.11.2025;C0037;Atyrau;Paid Search;Coffee Mug;Home;3;11.сен;03.сен;0;июн.99;35.7;0.0;42.69;30.99
+O00997;28.11.2025;C0080;Karaganda;Referral;Wireless Mouse;Electronics;2;24.сен;10.май;20;фев.99;49.8;сен.96;42.83;21.83
+O01014;28.11.2025;C0214;Karaganda;Organic;Coffee Mug;Home;2;11.сен;03.сен;5;апр.99;23.авг;янв.19;27.июн;19.авг
+O01027;28.11.2025;C0187;Shymkent;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;15;фев.99;37.8;май.67;35.12;22.72
+O00203;29.11.2025;C0172;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00377;29.11.2025;C0155;Astana;Social Media;Wireless Mouse;Electronics;5;24.сен;10.май;0;фев.99;124.5;0.0;127.49;74.99
+O00437;29.11.2025;C0163;Astana;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;0;июн.99;19.авг;0.0;26.79;20.39
+O01036;29.11.2025;C0208;Astana;Social Media;Water Bottle;Sports;3;15.сен;04.авг;5;апр.99;47.7;фев.38;50.31;35.91
+O00940;30.11.2025;C0155;Aktobe;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;0;0;26.сен;0.0;26.сен;17.фев
+O00158;02.12.2025;C0334;Aktobe;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O00180;02.12.2025;C0039;Astana;Email;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00598;02.12.2025;C0106;Atyrau;Social Media;Water Bottle;Sports;2;15.сен;04.авг;5;июн.99;31.авг;янв.59;37.2;27.июн
+O00712;02.12.2025;C0290;Astana;Social Media;USB-C Cable;Electronics;1;09.сен;03.фев;15;фев.99;09.сен;янв.49;ноя.41;авг.21
+O00036;03.12.2025;C0299;Aktobe;Referral;Water Bottle;Sports;2;15.сен;04.авг;5;июн.99;31.авг;янв.59;37.2;27.июн
+O00344;03.12.2025;C0341;Shymkent;Paid Search;Water Bottle;Sports;2;15.сен;04.авг;0;фев.99;31.авг;0.0;34.79;25.19
+O00524;03.12.2025;C0187;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;10;июн.99;26.сен;фев.69;31.2;21.май
+O00060;04.12.2025;C0044;Shymkent;Referral;Yoga Mat;Sports;3;26.сен;09.июл;20;фев.99;80.7;16.14;67.55;38.45
+O00007;05.12.2025;C0117;Shymkent;Organic;Desk Lamp;Home;2;29.сен;11.авг;10;0;59.8;май.98;53.82;30.22
+O00195;05.12.2025;C0173;Aktobe;Paid Search;Notebook Set;Office;3;12.май;04.янв;0;0;37.5;0.0;37.5;25.фев
+O00449;05.12.2025;C0145;Shymkent;Paid Search;Resistance Bands;Sports;2;18.сен;06.фев;10;апр.99;37.8;мар.78;39.01;26.61
+O00481;05.12.2025;C0164;Atyrau;Paid Search;Wireless Mouse;Electronics;3;24.сен;10.май;10;июн.99;74.7;июл.47;74.22;42.72
+O00585;05.12.2025;C0118;Karaganda;Social Media;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00923;05.12.2025;C0267;Karaganda;Email;USB-C Cable;Electronics;1;09.сен;03.фев;5;0;09.сен;0.49;сен.41;июн.21
+O00260;06.12.2025;C0245;Aktobe;Email;Wireless Mouse;Electronics;2;24.сен;10.май;5;апр.99;49.8;фев.49;52.3;31.мар
+O00957;06.12.2025;C0028;Atyrau;Paid Search;Notebook Set;Office;1;12.май;04.янв;20;0;12.май;02.май;10.0;05.сен
+O00378;07.12.2025;C0333;Astana;Organic;Mechanical Keyboard;Electronics;2;79.9;38.0;0;апр.99;159.8;0.0;164.79;88.79
+O00875;07.12.2025;C0163;Shymkent;Paid Search;Desk Lamp;Home;1;29.сен;11.авг;5;0;29.сен;01.май;28.апр;16.июн
+O00994;07.12.2025;C0050;Shymkent;Referral;Notebook Set;Office;4;12.май;04.янв;5;апр.99;50.0;02.май;52.49;36.09
+O00396;08.12.2025;C0337;Atyrau;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00516;09.12.2025;C0174;Aktobe;Referral;Desk Lamp;Home;1;29.сен;11.авг;15;фев.99;29.сен;апр.49;28.41;16.61
+O00579;09.12.2025;C0106;Aktobe;Social Media;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00109;10.12.2025;C0054;Astana;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;0;апр.99;79.9;0.0;84.89;46.89
+O00696;10.12.2025;C0212;Karaganda;Social Media;Desk Lamp;Home;2;29.сен;11.авг;5;0;59.8;фев.99;56.81;33.21
+O00061;11.12.2025;C0159;Astana;Paid Search;Water Bottle;Sports;1;15.сен;04.авг;10;фев.99;15.сен;янв.59;17.мар;12.май
+O00107;11.12.2025;C0138;Aktobe;Organic;Water Bottle;Sports;1;15.сен;04.авг;0;0;15.сен;0.0;15.сен;11.янв
+O00341;11.12.2025;C0256;Astana;Social Media;Mechanical Keyboard;Electronics;3;79.9;38.0;10;июн.99;239.7;23.97;222.72;108.72
+O00634;11.12.2025;C0262;Karaganda;Email;USB-C Cable;Electronics;5;09.сен;03.фев;0;апр.99;49.5;0.0;54.49;38.49
+O00806;11.12.2025;C0302;Astana;Referral;Notebook Set;Office;2;12.май;04.янв;0;фев.99;25.0;0.0;27.99;19.79
+O00124;12.12.2025;C0274;Karaganda;Social Media;Water Bottle;Sports;2;15.сен;04.авг;5;апр.99;31.авг;янв.59;35.2;25.июн
+O00536;12.12.2025;C0274;Shymkent;Email;Yoga Mat;Sports;2;26.сен;09.июл;20;июн.99;53.8;окт.76;50.03;30.63
+O00139;13.12.2025;C0346;Karaganda;Referral;Mechanical Keyboard;Electronics;1;79.9;38.0;0;фев.99;79.9;0.0;82.89;44.89
+O00972;13.12.2025;C0097;Karaganda;Paid Search;Coffee Mug;Home;3;11.сен;03.сен;5;апр.99;35.7;янв.78;38.91;27.21
+O01154;13.12.2025;C0140;Astana;Email;Coffee Mug;Home;1;11.сен;03.сен;5;0;11.сен;0.59;11.мар;07.апр
+O00594;14.12.2025;C0333;Karaganda;Referral;Yoga Mat;Sports;2;26.сен;09.июл;15;0;53.8;08.июл;45.73;26.33
+O00181;15.12.2025;C0290;Atyrau;Referral;Yoga Mat;Sports;3;26.сен;09.июл;10;июн.99;80.7;08.июл;79.62;50.52
+O00488;15.12.2025;C0196;Aktobe;Social Media;Water Bottle;Sports;1;15.сен;04.авг;15;0;15.сен;фев.38;13.52;авг.71
+O01158;15.12.2025;C0343;Almaty;Paid Search;Wireless Mouse;Electronics;5;24.сен;10.май;0;фев.99;124.5;0.0;127.49;74.99
+O00228;16.12.2025;C0164;Atyrau;Social Media;Yoga Mat;Sports;1;26.сен;09.июл;10;0;26.сен;фев.69;24.21;14.51
+O00538;16.12.2025;C0129;Astana;Organic;Notebook Set;Office;3;12.май;04.янв;0;апр.99;37.5;0.0;42.49;30.19
+O00010;17.12.2025;C0167;Almaty;Paid Search;Laptop Stand;Office;1;34.9;14.0;0;фев.99;34.9;0.0;37.89;23.89
+O00808;17.12.2025;C0229;Shymkent;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00958;17.12.2025;C0063;Aktobe;Paid Search;Notebook Set;Office;2;12.май;04.янв;0;апр.99;25.0;0.0;29.99;21.79
+O00147;18.12.2025;C0189;Aktobe;Social Media;Yoga Mat;Sports;4;26.сен;09.июл;15;0;107.6;16.14;91.46;52.66
+O00534;18.12.2025;C0177;Atyrau;Paid Search;Laptop Stand;Office;1;34.9;14.0;5;апр.99;34.9;янв.75;38.15;24.15
+O00914;18.12.2025;C0228;Astana;Referral;Coffee Mug;Home;1;11.сен;03.сен;5;апр.99;11.сен;0.59;16.мар;12.апр
+O00966;18.12.2025;C0304;Shymkent;Social Media;Yoga Mat;Sports;3;26.сен;09.июл;0;фев.99;80.7;0.0;83.69;54.59
+O00105;19.12.2025;C0156;Atyrau;Email;Water Bottle;Sports;4;15.сен;04.авг;0;июн.99;63.6;0.0;70.59;51.39
+O00279;20.12.2025;C0061;Atyrau;Social Media;Notebook Set;Office;1;12.май;04.янв;10;апр.99;12.май;янв.25;16.24;дек.14
+O00387;20.12.2025;C0014;Atyrau;Social Media;Mechanical Keyboard;Electronics;1;79.9;38.0;5;апр.99;79.9;4.0;80.89;42.89
+O00901;20.12.2025;C0186;Astana;Email;USB-C Cable;Electronics;4;09.сен;03.фев;0;апр.99;39.6;0.0;44.59;31.79
+O01006;20.12.2025;C0345;Atyrau;Email;Yoga Mat;Sports;1;26.сен;09.июл;10;апр.99;26.сен;фев.69;29.2;19.май
+O01133;20.12.2025;C0276;Shymkent;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;июн.99;29.сен;0.0;36.89;25.сен
+O00442;21.12.2025;C0035;Shymkent;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;фев.99;29.сен;0.0;32.89;21.сен
+O00836;21.12.2025;C0065;Astana;Paid Search;Notebook Set;Office;1;12.май;04.янв;10;июн.99;12.май;янв.25;18.24;14.14
+O00855;21.12.2025;C0209;Astana;Paid Search;Mechanical Keyboard;Electronics;1;79.9;38.0;0;0;79.9;0.0;79.9;41.9
+O00381;22.12.2025;C0068;Karaganda;Organic;Wireless Mouse;Electronics;2;24.сен;10.май;10;июн.99;49.8;апр.98;51.81;30.81
+O00701;22.12.2025;C0343;Almaty;Email;Resistance Bands;Sports;3;18.сен;06.фев;5;фев.99;56.7;фев.83;56.85;38.25
+O00893;22.12.2025;C0062;Shymkent;Referral;Water Bottle;Sports;1;15.сен;04.авг;0;июн.99;15.сен;0.0;22.89;18.сен
+O01047;22.12.2025;C0109;Karaganda;Email;Yoga Mat;Sports;2;26.сен;09.июл;0;0;53.8;0.0;53.8;34.4
+O01103;22.12.2025;C0240;Aktobe;Social Media;Laptop Stand;Office;3;34.9;14.0;0;июн.99;104.7;0.0;111.69;69.69
+O01113;22.12.2025;C0192;Shymkent;Referral;USB-C Cable;Electronics;3;09.сен;03.фев;0;июн.99;29.июл;0.0;36.69;27.сен
+O00305;23.12.2025;C0310;Atyrau;Paid Search;Mechanical Keyboard;Electronics;2;79.9;38.0;10;фев.99;159.8;15.98;146.81;70.81
+O00318;23.12.2025;C0116;Shymkent;Organic;Desk Lamp;Home;4;29.сен;11.авг;0;фев.99;119.6;0.0;122.59;75.39
+O00811;23.12.2025;C0095;Shymkent;Social Media;Water Bottle;Sports;3;15.сен;04.авг;0;0;47.7;0.0;47.7;33.3
+O00094;24.12.2025;C0065;Atyrau;Email;USB-C Cable;Electronics;1;09.сен;03.фев;20;апр.99;09.сен;янв.98;дек.91;сен.71
+O01015;24.12.2025;C0224;Almaty;Paid Search;Yoga Mat;Sports;2;26.сен;09.июл;5;июн.99;53.8;фев.69;58.1;38.7
+O01146;24.12.2025;C0292;Almaty;Email;Coffee Mug;Home;1;11.сен;03.сен;15;фев.99;11.сен;янв.78;13.ноя;сен.21
+O00410;25.12.2025;C0191;Karaganda;Organic;Notebook Set;Office;1;12.май;04.янв;15;июн.99;12.май;янв.88;17.62;13.52
+O00616;25.12.2025;C0135;Astana;Social Media;Desk Lamp;Home;1;29.сен;11.авг;0;0;29.сен;0.0;29.сен;18.янв
+O00769;25.12.2025;C0341;Shymkent;Social Media;Water Bottle;Sports;1;15.сен;04.авг;0;фев.99;15.сен;0.0;18.89;14.сен
+O00102;26.12.2025;C0233;Almaty;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;0;апр.99;26.сен;0.0;31.89;22.19
+O00533;26.12.2025;C0281;Shymkent;Referral;Water Bottle;Sports;2;15.сен;04.авг;10;апр.99;31.авг;мар.18;33.61;24.янв
+O00353;27.12.2025;C0110;Astana;Social Media;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00447;27.12.2025;C0016;Karaganda;Paid Search;Desk Lamp;Home;2;29.сен;11.авг;5;июн.99;59.8;фев.99;63.8;40.2
+O00858;27.12.2025;C0325;Almaty;Organic;USB-C Cable;Electronics;3;09.сен;03.фев;0;июн.99;29.июл;0.0;36.69;27.сен
+O01002;27.12.2025;C0153;Shymkent;Referral;USB-C Cable;Electronics;3;09.сен;03.фев;0;июн.99;29.июл;0.0;36.69;27.сен
+O00204;28.12.2025;C0241;Karaganda;Referral;Wireless Mouse;Electronics;1;24.сен;10.май;10;фев.99;24.сен;фев.49;25.апр;14.сен
+O00728;28.12.2025;C0231;Atyrau;Social Media;USB-C Cable;Electronics;2;09.сен;03.фев;0;0;19.авг;0.0;19.авг;13.апр
+O00753;28.12.2025;C0162;Atyrau;Organic;Water Bottle;Sports;1;15.сен;04.авг;10;апр.99;15.сен;янв.59;19.мар;14.май
+O01024;28.12.2025;C0026;Karaganda;Email;USB-C Cable;Electronics;3;09.сен;03.фев;15;0;29.июл;апр.46;25.25;15.64
+O00054;29.12.2025;C0224;Almaty;Referral;Coffee Mug;Home;4;11.сен;03.сен;0;0;47.6;0.0;47.6;32.0
+O00083;29.12.2025;C0079;Karaganda;Paid Search;Coffee Mug;Home;5;11.сен;03.сен;5;июн.99;59.5;фев.98;63.52;44.02
+O00340;29.12.2025;C0108;Karaganda;Social Media;USB-C Cable;Electronics;2;09.сен;03.фев;5;июн.99;19.авг;0.99;25.авг;19.апр
+O00547;29.12.2025;C0163;Aktobe;Paid Search;Yoga Mat;Sports;3;26.сен;09.июл;5;0;80.7;04.мар;76.66;47.56
+O00744;29.12.2025;C0149;Astana;Organic;Yoga Mat;Sports;2;26.сен;09.июл;0;фев.99;53.8;0.0;56.79;37.39
+O00469;30.12.2025;C0260;Karaganda;Paid Search;Wireless Mouse;Electronics;2;24.сен;10.май;0;апр.99;49.8;0.0;54.79;33.79
+O00535;30.12.2025;C0060;Shymkent;Referral;USB-C Cable;Electronics;2;09.сен;03.фев;10;апр.99;19.авг;янв.98;22.81;16.41
+O00902;30.12.2025;C0156;Almaty;Organic;Water Bottle;Sports;2;15.сен;04.авг;20;фев.99;31.авг;июн.36;28.43;18.83
+O00979;30.12.2025;C0272;Karaganda;Paid Search;Desk Lamp;Home;3;29.сен;11.авг;0;апр.99;89.7;0.0;94.69;59.29
+O01151;30.12.2025;C0070;Shymkent;Email;Laptop Stand;Office;1;34.9;14.0;0;0;34.9;0.0;34.9;20.сен
+O00200;31.12.2025;C0265;Almaty;Social Media;Yoga Mat;Sports;3;26.сен;09.июл;5;0;80.7;04.мар;76.66;47.56
+O00370;31.12.2025;C0165;Astana;Email;USB-C Cable;Electronics;2;09.сен;03.фев;0;фев.99;19.авг;0.0;22.79;16.39
+O00476;31.12.2025;C0330;Shymkent;Email;Water Bottle;Sports;3;15.сен;04.авг;0;апр.99;47.7;0.0;52.69;38.29
+O00570;31.12.2025;C0329;Karaganda;Social Media;Coffee Mug;Home;1;11.сен;03.сен;0;фев.99;11.сен;0.0;14.89;окт.99
+O00717;31.12.2025;C0333;Shymkent;Paid Search;Yoga Mat;Sports;1;26.сен;09.июл;15;июн.99;26.сен;04.апр;29.85;20.15
+O00783;31.12.2025;C0196;Karaganda;Email;Coffee Mug;Home;2;11.сен;03.сен;0;апр.99;23.авг;0.0;28.79;20.99
+O00789;31.12.2025;C0257;Shymkent;Email;Wireless Mouse;Electronics;2;24.сен;10.май;15;фев.99;49.8;июл.47;45.32;24.32
+O01112;31.12.2025;C0034;Almaty;Paid Search;Resistance Bands;Sports;5;18.сен;06.фев;20;июн.99;94.5;18.сен;82.59;51.59

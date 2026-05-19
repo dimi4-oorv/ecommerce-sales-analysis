@@ -1,0 +1,5 @@
+category,orders,units_sold,net_revenue,profit,avg_discount_pct,profit_margin_pct
+Electronics,380,707,28619.01,15620.09,5.13,54.58
+Sports,368,738,16217.88,10942.98,5.2,67.47
+Office,215,398,9615.41,6072.93,5.09,63.16
+Home,237,457,9245.92,5962.61,5.4,64.49
